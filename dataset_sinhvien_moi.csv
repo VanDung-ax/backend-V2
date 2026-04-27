@@ -1,0 +1,1201 @@
+Họ Tên,MSSV,Khoa,Ngành,Lớp,Môn học,thoi_gian_tu_hoc,chuyen_can,diem_qua_trinh,hoan_thanh_bai_tap,loai_mon_hoc,tai_lieu_on_tap,hinh_thuc_thi,tre_hoc_phi,ho_tro,tre_hoc,hoc_nhom,lam_them,co_kinh_nghiem
+Nguyễn Minh Long,226A010001,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,73,16,4.0,100,Chuyên ngành,Không,Tự luận,Có,Có,50,Không,Không,Có
+Bùi Hữu Long,226A010002,Kỹ thuật điện,Điện dân dụng,226A005,Triết học Mác - Lênin - Nhóm 1,31,41,6.8,90,Đại cương,Không,Tự luận,Có,Không,75,Có,Có,Có
+Võ Hữu Vinh,226A010003,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,43,100,9.5,25,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Đặng Gia Bình,226A010004,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,19,16,4.3,50,Chuyên ngành,Không,Tự luận,Không,Không,83,Không,Có,Có
+Huỳnh Ngọc Quân,226A010005,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,77,100,8.3,100,Chuyên ngành,Có,Tự luận,Có,Có,16,Không,Không,Không
+Nguyễn Hữu Khang,226A010006,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,82,11,5.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,22,Có,Có,Không
+Đặng Anh Dũng,226A010007,Ngoại ngữ,Ngôn ngữ Anh,226A003,Toán cao cấp - Nhóm 1,29,33,8.0,45,Đại cương,Không,Trắc nghiệm,Không,Không,50,Không,Có,Có
+Đỗ Hữu Quân,226A010008,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 1,77,100,9.3,100,Đại cương,Không,Trắc nghiệm,Không,Không,8,Có,Có,Có
+Võ Đức Phúc,226A010009,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,82,100,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Trần Minh Cường,226A010010,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 1,62,50,9.0,100,Đại cương,Có,Trắc nghiệm,Có,Không,33,Có,Có,Không
+Phạm Đức Khang,226A010011,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 1,81,100,4.5,100,Đại cương,Có,Tự luận,Có,Có,33,Có,Có,Không
+Huỳnh Đức An,226A010012,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,89,100,10.0,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Không,Có,Có
+Huỳnh Văn Phúc,226A010013,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,87,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Đặng Minh An,226A010014,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,88,100,6.8,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Phạm Anh Long,226A010015,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,32,66,5.3,85,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Có,Có
+Đỗ Gia Bình,226A010016,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,87,100,9.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Hoàng Đức Sơn,226A010017,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 1,88,100,8.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Huỳnh Anh Hải,226A010018,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,69,100,8.5,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Huỳnh Văn Vinh,226A010019,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,61,100,9.8,100,Chuyên ngành,Không,Tự luận,Không,Không,11,Không,Có,Không
+Nguyễn Minh Nam,226A010020,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,64,100,9.0,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Có,Có
+Lê Ngọc Phúc,226A010021,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,78,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Có,Có
+Đỗ Thái Hưng,226A010022,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 1,66,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,25,Có,Có,Có
+Hoàng Văn Dũng,226A010023,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 1,0,11,8.5,20,Đại cương,Có,Tự luận,Không,Không,44,Không,Có,Có
+Bùi Hữu Vinh,226A010024,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 1,33,75,5.3,55,Đại cương,Không,Trắc nghiệm,Không,Không,8,Có,Không,Có
+Đỗ Hữu Phúc,226A010025,Ngoại ngữ,Ngôn ngữ Anh,226A003,Triết học Mác - Lênin - Nhóm 1,6,83,5.5,60,Đại cương,Không,Tự luận,Có,Có,83,Có,Có,Có
+Nguyễn Quang Dũng,226A010026,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 1,17,0,7.8,60,Đại cương,Không,Tự luận,Có,Không,58,Có,Không,Có
+Hoàng Đức Bình,226A010027,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,86,66,7.3,100,Chuyên ngành,Không,Tự luận,Không,Không,11,Không,Không,Không
+Đặng Anh Sơn,226A010028,Ngoại ngữ,Ngôn ngữ Anh,226A003,Triết học Mác - Lênin - Nhóm 1,67,100,5.8,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Không,Có
+Nguyễn Đức Nam,226A010029,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,37,75,2.5,90,Chuyên ngành,Không,Tự luận,Có,Không,100,Không,Không,Có
+Phạm Thành Long,226A010030,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 1,20,50,2.0,55,Đại cương,Có,Tự luận,Không,Không,16,Không,Có,Không
+Trần Gia Hải,226A010031,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,69,100,8.8,100,Chuyên ngành,Không,Tự luận,Không,Không,16,Không,Có,Không
+Lê Đức Long,226A010032,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,17,77,3.8,25,Chuyên ngành,Không,Tự luận,Có,Có,88,Có,Không,Có
+Lê Gia Quân,226A010033,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,66,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Lê Văn Bình,226A010034,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,65,100,8.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Không,Có,Có
+Lê Thái Long,226A010035,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,3,16,6.8,60,Chuyên ngành,Có,Tự luận,Không,Không,33,Không,Không,Có
+Bùi Quang Hải,226A010036,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 1,1,16,3.8,40,Đại cương,Không,Trắc nghiệm,Không,Không,25,Không,Có,Có
+Nguyễn Quang Tùng,226A010037,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,86,100,9.8,100,Chuyên ngành,Có,Trắc nghiệm,Có,Có,11,Không,Không,Có
+Phạm Văn Phúc,226A010038,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 1,11,0,6.8,30,Đại cương,Không,Tự luận,Không,Không,88,Không,Không,Không
+Hoàng Quang Hải,226A010039,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,20,50,3.8,50,Chuyên ngành,Có,Tự luận,Không,Không,16,Không,Không,Có
+Huỳnh Minh An,226A010040,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 1,84,100,9.0,100,Đại cương,Không,Trắc nghiệm,Không,Không,25,Có,Không,Không
+Nguyễn Văn Quân,226A010041,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 1,78,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Nguyễn Đức Phúc,226A010042,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 1,46,0,4.5,65,Đại cương,Không,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Hoàng Minh Sơn,226A010043,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,75,100,8.8,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,25,Có,Có,Không
+Bùi Minh Cường,226A010044,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 1,21,33,7.5,65,Đại cương,Không,Tự luận,Không,Không,33,Có,Không,Không
+Hoàng Ngọc Quân,226A010045,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,86,100,9.3,100,Chuyên ngành,Không,Tự luận,Không,Không,16,Có,Có,Không
+Lê Quang An,226A010046,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,84,100,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Không
+Đỗ Quang Nam,226A010047,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,70,100,10.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Bùi Đức Quân,226A010048,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 1,27,33,8.3,60,Đại cương,Có,Tự luận,Không,Không,66,Có,Không,Có
+Võ Thành Sơn,226A010049,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,66,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Nguyễn Gia Hải,226A010050,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,54,0,5.8,40,Đại cương,Có,Tự luận,Không,Không,91,Có,Có,Không
+Đặng Thái Bình,226A010051,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,95,44,3.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,55,Có,Không,Có
+Võ Minh Nam,226A010052,Công nghệ thông tin,An toàn thông tin,226A002,Kỹ năng giao tiếp - Nhóm 1,17,25,9.0,25,Đại cương,Không,Tự luận,Không,Không,91,Không,Không,Không
+Lê Minh Khang,226A010053,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,89,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Phạm Thái Hưng,226A010054,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,44,75,8.5,25,Chuyên ngành,Có,Tự luận,Không,Không,83,Có,Có,Không
+Đỗ Thành Hải,226A010055,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,22,8,7.3,40,Chuyên ngành,Có,Tự luận,Không,Không,100,Không,Không,Không
+Phạm Anh Vinh,226A010056,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 1,68,100,8.5,100,Đại cương,Không,Tự luận,Không,Không,11,Không,Có,Không
+Phạm Gia Long,226A010057,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 1,65,100,9.5,100,Đại cương,Có,Tự luận,Không,Không,16,Không,Có,Có
+Phạm Anh Hưng,226A010058,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 1,30,16,8.0,25,Đại cương,Không,Trắc nghiệm,Không,Không,41,Có,Có,Có
+Đỗ Văn Tùng,226A010059,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 1,78,100,8.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,22,Không,Có,Không
+Phạm Thái Nam,226A010060,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,74,100,9.0,100,Chuyên ngành,Không,Tự luận,Không,Không,50,Có,Không,Không
+Đỗ Quang Sơn,226A010061,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 1,67,100,8.8,100,Đại cương,Không,Tự luận,Không,Không,0,Không,Có,Không
+Bùi Minh An,226A010062,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,16,41,2.0,50,Chuyên ngành,Không,Tự luận,Không,Không,83,Có,Không,Không
+Bùi Anh Cường,226A010063,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,65,100,8.0,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Không,Có,Có
+Đỗ Quang Cường,226A010064,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 1,74,100,9.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,8,Có,Không,Không
+Bùi Gia Tùng,226A010065,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 1,70,100,8.5,100,Đại cương,Không,Tự luận,Không,Không,0,Có,Không,Không
+Hoàng Hữu Nam,226A010066,Ngoại ngữ,Ngôn ngữ Anh,226A003,Triết học Mác - Lênin - Nhóm 1,88,66,2.0,100,Đại cương,Không,Trắc nghiệm,Có,Không,77,Không,Có,Không
+Đỗ Văn Khang,226A010067,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,65,100,10.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Có,Có,Không
+Nguyễn Đức Vinh,226A010068,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 1,13,0,3.5,65,Đại cương,Có,Trắc nghiệm,Không,Không,66,Có,Có,Có
+Bùi Gia Nam,226A010069,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,77,100,9.5,100,Chuyên ngành,Có,Tự luận,Có,Không,0,Có,Có,Có
+Lê Minh Cường,226A010070,Kỹ thuật điện,Điện công nghiệp,226A005,Kỹ năng giao tiếp - Nhóm 1,7,16,0.0,60,Đại cương,Không,Tự luận,Có,Không,50,Không,Có,Không
+Nguyễn Quang Bình,226A010071,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,1,44,7.0,45,Đại cương,Có,Trắc nghiệm,Không,Không,55,Không,Có,Không
+Huỳnh Văn Phúc,226A010072,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,68,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Phạm Anh Phúc,226A010073,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,75,100,10.0,100,Chuyên ngành,Có,Tự luận,Có,Không,22,Không,Không,Có
+Huỳnh Quang Nam,226A010074,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 1,81,100,8.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,11,Có,Không,Không
+Huỳnh Minh Phúc,226A010075,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 1,30,16,8.5,30,Đại cương,Có,Trắc nghiệm,Không,Không,83,Không,Có,Không
+Đỗ Minh Quân,226A010076,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 1,77,100,8.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,22,Có,Không,Không
+Bùi Gia Long,226A010077,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,64,100,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,8,Không,Không,Không
+Phạm Văn Dũng,226A010078,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,65,100,9.5,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Không,Không,Có
+Bùi Hữu Hải,226A010079,Công nghệ thông tin,Công nghệ phần mềm,226A001,Toán cao cấp - Nhóm 1,76,100,10.0,100,Đại cương,Có,Tự luận,Không,Không,11,Có,Có,Có
+Đỗ Gia Hải,226A010080,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,18,50,7.5,55,Chuyên ngành,Không,Trắc nghiệm,Có,Có,50,Không,Không,Có
+Huỳnh Đức Vinh,226A010081,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,82,100,8.0,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Có,Không,Không
+Trần Thành Bình,226A010082,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,89,100,8.3,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,0,Không,Không,Không
+Lê Anh Dũng,226A010083,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 1,6,44,6.5,65,Đại cương,Có,Tự luận,Có,Có,66,Không,Có,Không
+Nguyễn Hữu Bình,226A010084,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 1,9,44,6.5,50,Đại cương,Không,Trắc nghiệm,Không,Không,100,Không,Không,Không
+Nguyễn Thành Hưng,226A010085,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 1,26,44,7.5,35,Đại cương,Không,Trắc nghiệm,Không,Không,77,Không,Có,Không
+Nguyễn Văn Long,226A010086,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,33,100,5.8,40,Chuyên ngành,Không,Trắc nghiệm,Không,Không,83,Không,Không,Có
+Lê Anh Vinh,226A010087,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 1,26,0,9.0,45,Đại cương,Có,Trắc nghiệm,Không,Không,100,Không,Có,Không
+Huỳnh Thành Sơn,226A010088,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,62,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Không,Không,Không
+Phạm Ngọc Hưng,226A010089,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,23,55,3.5,20,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Có,Có
+Đỗ Đức Tùng,226A010090,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 1,84,100,8.5,100,Đại cương,Không,Tự luận,Không,Không,11,Không,Không,Có
+Bùi Thái Bình,226A010091,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,90,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Trần Quang Long,226A010092,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,82,100,9.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Có,Có,Có
+Bùi Ngọc Cường,226A010093,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,66,100,8.8,100,Chuyên ngành,Không,Tự luận,Không,Không,16,Có,Không,Không
+Huỳnh Đức Tùng,226A010094,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 1,16,22,8.0,50,Đại cương,Không,Tự luận,Có,Có,55,Có,Không,Không
+Đặng Đức Nam,226A010095,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,87,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Không,Không,Có
+Võ Văn Nam,226A010096,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 1,3,16,0.0,25,Đại cương,Có,Tự luận,Không,Không,83,Không,Không,Không
+Võ Ngọc Dũng,226A010097,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,51,100,9.5,65,Đại cương,Không,Tự luận,Không,Không,11,Có,Có,Có
+Trần Hữu Sơn,226A010098,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,11,0,7.0,35,Chuyên ngành,Không,Trắc nghiệm,Không,Không,50,Không,Không,Không
+Trần Quang Nam,226A010099,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,54,100,9.0,25,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Không,Có,Không
+Nguyễn Đức Bình,226A010100,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,26,50,2.3,35,Chuyên ngành,Có,Tự luận,Không,Không,16,Không,Có,Không
+Lê Minh Dũng,226A010101,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 1,57,100,10.0,30,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Phạm Anh Phúc,226A010102,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,64,100,8.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Không,Có,Không
+Huỳnh Hữu Tùng,226A010103,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 1,43,55,6.3,25,Đại cương,Không,Trắc nghiệm,Không,Không,100,Không,Không,Có
+Lê Anh Quân,226A010104,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,7,0,9.0,35,Chuyên ngành,Không,Tự luận,Không,Không,100,Có,Có,Không
+Nguyễn Thái Vinh,226A010105,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 1,70,100,8.8,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Không
+Huỳnh Đức Nam,226A010106,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 1,69,8,1.3,100,Đại cương,Có,Tự luận,Không,Không,58,Không,Không,Không
+Đỗ Văn Cường,226A010107,Ngoại ngữ,Ngôn ngữ Anh,226A003,Toán cao cấp - Nhóm 1,77,100,10.0,100,Đại cương,Có,Tự luận,Không,Không,16,Không,Có,Không
+Đỗ Minh Long,226A010108,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,0,16,8.5,60,Chuyên ngành,Không,Tự luận,Không,Không,100,Không,Có,Có
+Bùi Thái Nam,226A010109,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 1,11,25,2.5,30,Đại cương,Có,Tự luận,Có,Có,83,Không,Có,Không
+Đặng Hữu Hải,226A010110,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,69,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Có,Không
+Nguyễn Đức Khang,226A010111,Kỹ thuật điện,Điện công nghiệp,226A005,Kỹ năng giao tiếp - Nhóm 1,23,22,1.5,65,Đại cương,Có,Tự luận,Không,Không,66,Không,Có,Không
+Đặng Ngọc Cường,226A010112,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,32,50,4.8,95,Chuyên ngành,Không,Tự luận,Không,Không,25,Không,Không,Không
+Hoàng Đức Khang,226A010113,Cơ khí,Chế tạo máy,226A005,Triết học Mác - Lênin - Nhóm 1,67,100,9.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Không,Không,Có
+Bùi Đức Dũng,226A010114,Ngoại ngữ,Ngôn ngữ Anh,226A003,Toán cao cấp - Nhóm 1,8,75,10.0,25,Đại cương,Không,Trắc nghiệm,Không,Không,25,Không,Không,Không
+Võ Thành Khang,226A010115,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,78,100,9.8,100,Chuyên ngành,Không,Tự luận,Không,Không,16,Có,Không,Không
+Phạm Minh Cường,226A010116,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,83,100,9.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Không,Không,Không
+Đặng Văn Tùng,226A010117,Công nghệ thông tin,An toàn thông tin,226A002,Vật lý đại cương - Nhóm 1,21,50,3.0,65,Đại cương,Có,Trắc nghiệm,Không,Không,0,Không,Không,Có
+Lê Văn Long,226A010118,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,88,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Có,Có
+Lê Anh Hải,226A010119,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 1,79,100,7.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,11,Có,Không,Có
+Nguyễn Hữu Khang,226A010120,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,71,100,9.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Không,Không
+Đỗ Anh Nam,226A010121,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 1,36,75,4.8,45,Đại cương,Không,Tự luận,Không,Không,16,Có,Không,Không
+Võ Thái Tùng,226A010122,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,79,100,9.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Có,Không
+Trần Ngọc Vinh,226A010123,Kỹ thuật điện,Điện công nghiệp,226A005,Kỹ năng giao tiếp - Nhóm 1,15,0,5.0,40,Đại cương,Có,Tự luận,Không,Không,100,Không,Có,Không
+Hoàng Thái Bình,226A010124,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,73,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,0,Không,Có,Không
+Bùi Gia Quân,226A010125,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 1,1,66,4.5,55,Đại cương,Không,Tự luận,Có,Có,41,Có,Không,Có
+Trần Ngọc Nam,226A010126,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,77,100,8.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Có
+Trần Minh Phúc,226A010127,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,19,50,4.0,40,Chuyên ngành,Không,Trắc nghiệm,Không,Không,58,Có,Không,Có
+Nguyễn Thái Quân,226A010128,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,72,100,9.8,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Bùi Quang Nam,226A010129,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,61,100,9.3,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Nguyễn Văn Quân,226A010130,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 1,22,33,9.0,70,Đại cương,Không,Trắc nghiệm,Không,Không,50,Không,Có,Có
+Lê Anh Sơn,226A010131,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,75,100,9.8,100,Chuyên ngành,Có,Trắc nghiệm,Có,Có,25,Không,Không,Có
+Lê Hữu Tùng,226A010132,Công nghệ thông tin,An toàn thông tin,226A002,Vật lý đại cương - Nhóm 1,12,33,2.3,35,Đại cương,Không,Tự luận,Không,Không,66,Không,Có,Có
+Phạm Thái Long,226A010133,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,86,41,6.5,100,Chuyên ngành,Không,Trắc nghiệm,Có,Không,33,Không,Không,Có
+Nguyễn Thái Khang,226A010134,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,86,100,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Có,Không,Có
+Phạm Thái Vinh,226A010135,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 1,76,100,10.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,25,Không,Không,Có
+Phạm Đức Hải,226A010136,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 1,69,0,5.3,100,Đại cương,Có,Tự luận,Có,Không,100,Không,Có,Không
+Huỳnh Anh Quân,226A010137,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,82,55,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Có
+Bùi Gia Cường,226A010138,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,88,100,7.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Không,Có,Có
+Hoàng Thành Hải,226A010139,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 1,89,100,9.3,100,Đại cương,Có,Tự luận,Không,Không,11,Có,Không,Có
+Phạm Hữu Tùng,226A010140,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,75,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Không
+Bùi Hữu Khang,226A010141,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,82,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Có,Có,Có
+Phạm Hữu Quân,226A010142,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 1,69,75,9.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,8,Có,Không,Không
+Lê Minh Hưng,226A010143,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 1,74,100,9.8,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Có,Không
+Nguyễn Thành Khang,226A010144,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 1,40,33,3.5,75,Đại cương,Không,Tự luận,Có,Không,0,Có,Có,Không
+Bùi Thành An,226A010145,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 1,20,22,8.5,30,Đại cương,Có,Trắc nghiệm,Không,Không,22,Có,Có,Không
+Nguyễn Văn Long,226A010146,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 1,16,33,8.5,45,Đại cương,Có,Trắc nghiệm,Có,Không,55,Không,Không,Không
+Võ Thành Khang,226A010147,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,88,100,9.3,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Không,Có,Không
+Nguyễn Anh Bình,226A010148,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,13,16,7.5,55,Chuyên ngành,Không,Trắc nghiệm,Không,Không,83,Có,Có,Không
+Đỗ Thành Vinh,226A010149,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,31,100,5.8,20,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Lê Minh Quân,226A010150,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 1,27,33,1.8,70,Đại cương,Không,Trắc nghiệm,Có,Có,50,Có,Có,Không
+Đỗ Minh Nam,226A010151,Công nghệ thông tin,An toàn thông tin,226A002,Kỹ năng giao tiếp - Nhóm 1,97,0,4.8,100,Đại cương,Có,Tự luận,Không,Không,22,Có,Có,Có
+Bùi Anh Hưng,226A010152,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,80,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Có,Có,Có
+Nguyễn Anh Long,226A010153,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 1,76,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,11,Không,Có,Không
+Nguyễn Đức Hải,226A010154,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,0,33,1.8,50,Chuyên ngành,Không,Trắc nghiệm,Không,Không,66,Có,Có,Có
+Lê Minh Hưng,226A010155,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 1,30,44,6.8,95,Đại cương,Có,Tự luận,Không,Không,66,Không,Không,Có
+Trần Anh An,226A010156,Kỹ thuật điện,Điện công nghiệp,226A005,Kỹ năng giao tiếp - Nhóm 1,86,100,9.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,25,Có,Không,Có
+Đặng Gia Sơn,226A010157,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 1,3,100,2.8,25,Đại cương,Không,Trắc nghiệm,Không,Không,8,Không,Không,Có
+Lê Quang Long,226A010158,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,75,100,6.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Phạm Gia Bình,226A010159,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 1,70,100,9.0,100,Đại cương,Không,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Võ Hữu Dũng,226A010160,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,35,50,8.3,55,Chuyên ngành,Không,Trắc nghiệm,Có,Có,66,Không,Có,Có
+Trần Thành Dũng,226A010161,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 1,37,100,5.5,70,Đại cương,Có,Tự luận,Không,Không,11,Không,Không,Có
+Đặng Anh Dũng,226A010162,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,27,0,9.0,50,Chuyên ngành,Có,Tự luận,Không,Không,33,Không,Có,Không
+Phạm Ngọc Long,226A010163,Ngoại ngữ,Ngôn ngữ Anh,226A003,Toán cao cấp - Nhóm 1,68,100,8.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Hoàng Thành Nam,226A010164,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 1,86,100,8.0,100,Đại cương,Không,Tự luận,Không,Không,11,Có,Không,Có
+Hoàng Thành Cường,226A010165,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 1,91,33,6.3,100,Đại cương,Không,Trắc nghiệm,Không,Không,50,Có,Có,Có
+Đỗ Quang Bình,226A010166,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,47,100,8.8,60,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Võ Anh Tùng,226A010167,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,9,0,7.0,45,Chuyên ngành,Không,Trắc nghiệm,Không,Không,66,Có,Không,Có
+Huỳnh Quang Phúc,226A010168,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,81,16,6.8,100,Chuyên ngành,Có,Tự luận,Không,Không,58,Có,Không,Không
+Hoàng Anh Hải,226A010169,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,55,100,5.0,25,Chuyên ngành,Không,Trắc nghiệm,Không,Không,66,Không,Không,Không
+Trần Thành Khang,226A010170,Kỹ thuật điện,Điện dân dụng,226A005,Triết học Mác - Lênin - Nhóm 1,70,100,8.5,100,Đại cương,Có,Trắc nghiệm,Có,Có,25,Có,Có,Có
+Huỳnh Minh Long,226A010171,Cơ khí,Chế tạo máy,226A005,Triết học Mác - Lênin - Nhóm 1,24,0,8.0,40,Đại cương,Có,Trắc nghiệm,Có,Có,66,Không,Có,Không
+Đỗ Ngọc Cường,226A010172,Công nghệ thông tin,An toàn thông tin,226A002,Kỹ năng giao tiếp - Nhóm 1,6,44,7.8,55,Đại cương,Có,Trắc nghiệm,Không,Không,66,Không,Có,Không
+Nguyễn Đức Phúc,226A010173,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 1,85,100,8.5,100,Đại cương,Không,Trắc nghiệm,Không,Không,8,Không,Có,Có
+Đặng Đức Hưng,226A010174,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,88,100,9.5,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Có,Có,Có
+Huỳnh Minh Dũng,226A010175,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 1,20,66,2.3,60,Đại cương,Không,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Trần Gia An,226A010176,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 1,67,100,8.5,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Có
+Trần Anh Hưng,226A010177,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,82,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Phạm Gia Sơn,226A010178,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 1,76,55,4.0,100,Đại cương,Không,Trắc nghiệm,Không,Không,11,Có,Không,Không
+Lê Anh Dũng,226A010179,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,90,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Có,Không,Không
+Lê Thái Bình,226A010180,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,56,44,3.5,25,Chuyên ngành,Có,Tự luận,Không,Không,11,Có,Không,Có
+Hoàng Gia Tùng,226A010181,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,74,100,8.0,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Có,Không,Không
+Hoàng Anh Nam,226A010182,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 1,63,100,8.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Không,Không,Không
+Trần Anh Vinh,226A010183,Ngoại ngữ,Ngôn ngữ Trung,226A004,Toán cao cấp - Nhóm 1,73,100,8.3,100,Đại cương,Có,Tự luận,Có,Không,25,Có,Có,Có
+Hoàng Anh Khang,226A010184,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 1,79,100,9.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,11,Có,Không,Không
+Nguyễn Thái Quân,226A010185,Công nghệ thông tin,An toàn thông tin,226A002,Kỹ năng giao tiếp - Nhóm 1,22,41,7.5,30,Đại cương,Không,Tự luận,Không,Không,25,Không,Có,Có
+Huỳnh Thái Bình,226A010186,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,64,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Có,Có
+Lê Thành Khang,226A010187,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 1,79,100,6.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Không,Có,Không
+Huỳnh Gia Tùng,226A010188,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 1,24,25,7.3,60,Đại cương,Có,Trắc nghiệm,Không,Không,41,Không,Không,Có
+Hoàng Gia Tùng,226A010189,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,90,100,8.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Trần Ngọc Bình,226A010190,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,6,25,9.0,45,Chuyên ngành,Không,Tự luận,Có,Có,91,Có,Có,Không
+Võ Anh Hưng,226A010191,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,57,22,4.8,60,Chuyên ngành,Không,Trắc nghiệm,Không,Không,100,Không,Có,Có
+Phạm Đức Khang,226A010192,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,85,100,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Không,Có,Có
+Đỗ Thái Sơn,226A010193,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,56,33,4.5,45,Chuyên ngành,Có,Tự luận,Không,Không,55,Có,Không,Có
+Đỗ Thái Long,226A010194,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,69,100,9.5,100,Đại cương,Có,Trắc nghiệm,Có,Không,16,Có,Có,Có
+Huỳnh Thành Khang,226A010195,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,26,83,2.0,55,Chuyên ngành,Có,Tự luận,Có,Không,83,Có,Không,Không
+Nguyễn Văn An,226A010196,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,86,100,9.0,100,Chuyên ngành,Có,Tự luận,Có,Không,22,Không,Không,Không
+Đặng Ngọc Hải,226A010197,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 1,72,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,16,Không,Không,Không
+Huỳnh Gia Sơn,226A010198,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,10,25,8.3,50,Chuyên ngành,Không,Trắc nghiệm,Có,Không,58,Không,Không,Có
+Đỗ Anh Sơn,226A010199,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,69,100,8.8,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,8,Không,Không,Không
+Huỳnh Hữu An,226A010200,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,9,66,9.3,45,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Không,Có
+Lê Thái Long,226A010201,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 1,30,58,2.5,70,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Không
+Huỳnh Văn Quân,226A010202,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,83,100,9.5,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Không,Không,Có
+Trần Văn Khang,226A010203,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 1,1,0,4.3,45,Đại cương,Có,Tự luận,Không,Không,100,Có,Không,Có
+Phạm Văn Hải,226A010204,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 1,11,33,6.3,55,Đại cương,Có,Tự luận,Có,Không,22,Không,Có,Có
+Lê Đức Nam,226A010205,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,80,100,8.8,100,Chuyên ngành,Không,Tự luận,Không,Không,16,Có,Không,Có
+Trần Anh Hưng,226A010206,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,68,100,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Có,Có,Không
+Hoàng Ngọc Bình,226A010207,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 1,88,50,8.0,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Không,Không
+Võ Đức Bình,226A010208,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 1,61,100,9.0,100,Đại cương,Không,Trắc nghiệm,Không,Không,25,Có,Có,Không
+Đặng Thái An,226A010209,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,78,100,6.3,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Không
+Huỳnh Hữu Sơn,226A010210,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,24,77,4.0,35,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Không
+Trần Thành Quân,226A010211,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 1,29,44,6.3,55,Đại cương,Có,Trắc nghiệm,Không,Không,100,Có,Có,Có
+Đặng Đức Tùng,226A010212,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,23,44,9.0,55,Chuyên ngành,Không,Tự luận,Có,Không,33,Không,Có,Không
+Huỳnh Thái Bình,226A010213,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,90,100,8.5,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Có,Có,Không
+Bùi Thành Cường,226A010214,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 1,98,16,8.5,100,Đại cương,Có,Tự luận,Có,Không,100,Không,Có,Có
+Nguyễn Anh Dũng,226A010215,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,86,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Không,Không,Có
+Huỳnh Minh Hải,226A010216,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 1,51,11,7.0,90,Đại cương,Có,Tự luận,Không,Không,33,Có,Không,Không
+Nguyễn Thái Tùng,226A010217,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,4,8,7.3,30,Chuyên ngành,Có,Trắc nghiệm,Không,Không,58,Không,Không,Không
+Lê Quang Khang,226A010218,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,18,33,1.8,45,Chuyên ngành,Có,Tự luận,Không,Không,66,Không,Có,Không
+Võ Thành Vinh,226A010219,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 1,84,100,9.8,100,Đại cương,Có,Tự luận,Có,Không,0,Không,Có,Không
+Phạm Văn Cường,226A010220,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 1,74,100,8.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,11,Có,Không,Không
+Đỗ Thái Quân,226A010221,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,20,55,5.8,65,Chuyên ngành,Có,Tự luận,Không,Không,11,Không,Có,Không
+Hoàng Quang An,226A010222,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 1,78,100,8.5,100,Đại cương,Có,Tự luận,Không,Không,8,Có,Có,Có
+Bùi Minh An,226A010223,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,33,100,9.0,75,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Không,Có,Không
+Nguyễn Anh Dũng,226A010224,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,90,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Lê Thái Vinh,226A010225,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,76,100,9.0,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Có,Không,Không
+Lê Văn Bình,226A010226,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 1,22,33,9.0,40,Đại cương,Không,Trắc nghiệm,Không,Không,41,Không,Không,Có
+Huỳnh Văn Khang,226A010227,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,5,25,7.0,35,Chuyên ngành,Không,Trắc nghiệm,Không,Không,50,Không,Không,Có
+Lê Thành Khang,226A010228,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 1,83,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Không,Không
+Đặng Ngọc Quân,226A010229,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,41,83,6.3,55,Chuyên ngành,Có,Tự luận,Có,Có,100,Có,Có,Có
+Bùi Ngọc Vinh,226A010230,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,89,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Không,Có,Không
+Bùi Anh Cường,226A010231,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 1,20,25,7.3,20,Đại cương,Có,Tự luận,Không,Không,100,Không,Có,Không
+Đặng Anh Quân,226A010232,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,78,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,11,Có,Có,Có
+Nguyễn Hữu Nam,226A010233,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 1,69,100,9.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,22,Có,Không,Không
+Nguyễn Đức Tùng,226A010234,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,63,100,8.0,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Không,Không,Có
+Lê Anh Bình,226A010235,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,0,16,8.3,20,Chuyên ngành,Có,Tự luận,Không,Không,50,Có,Có,Không
+Hoàng Văn Bình,226A010236,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 1,23,16,9.0,25,Đại cương,Không,Tự luận,Không,Không,25,Không,Có,Có
+Nguyễn Ngọc Hưng,226A010237,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,68,100,5.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Nguyễn Ngọc Bình,226A010238,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,80,100,9.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Hoàng Minh Nam,226A010239,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,58,100,7.5,20,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Đỗ Gia Dũng,226A010240,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 1,5,33,8.0,50,Đại cương,Không,Trắc nghiệm,Không,Không,66,Có,Có,Có
+Lê Thái An,226A010241,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,21,25,8.3,30,Chuyên ngành,Có,Trắc nghiệm,Không,Không,58,Không,Không,Có
+Hoàng Thành Hưng,226A010242,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,88,100,9.0,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Có,Không
+Đỗ Thành Hưng,226A010243,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,79,100,8.5,100,Chuyên ngành,Không,Tự luận,Không,Không,22,Có,Không,Có
+Lê Thành Vinh,226A010244,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,6,22,6.5,50,Chuyên ngành,Không,Tự luận,Không,Không,88,Không,Có,Có
+Huỳnh Thái Cường,226A010245,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 1,6,33,6.8,60,Đại cương,Không,Tự luận,Không,Không,77,Có,Không,Có
+Phạm Quang Nam,226A010246,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,76,100,8.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,25,Có,Có,Có
+Đặng Đức Hải,226A010247,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,7,44,6.3,40,Chuyên ngành,Không,Trắc nghiệm,Có,Có,22,Không,Có,Có
+Bùi Quang Long,226A010248,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,85,66,6.3,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Có,Không
+Huỳnh Anh Sơn,226A010249,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 1,7,16,4.8,40,Đại cương,Không,Tự luận,Không,Không,75,Có,Có,Không
+Trần Ngọc Hưng,226A010250,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,74,100,5.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Có,Không,Không
+Huỳnh Hữu Bình,226A010251,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,80,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Đỗ Minh Sơn,226A010252,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,85,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,25,Có,Không,Có
+Võ Văn Khang,226A010253,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 1,66,100,9.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Không,Không,Có
+Huỳnh Thành Nam,226A010254,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,38,100,6.3,20,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Không,Có
+Lê Thái Phúc,226A010255,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 1,77,100,9.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Huỳnh Anh Tùng,226A010256,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,38,44,7.3,35,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Có,Có,Có
+Nguyễn Quang Sơn,226A010257,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,16,33,6.5,65,Chuyên ngành,Không,Trắc nghiệm,Có,Không,75,Không,Có,Có
+Đỗ Quang Sơn,226A010258,Ngoại ngữ,Ngôn ngữ Trung,226A004,Toán cao cấp - Nhóm 1,44,100,8.0,75,Đại cương,Không,Tự luận,Có,Không,0,Có,Không,Có
+Võ Thái Dũng,226A010259,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,73,41,3.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,33,Có,Không,Có
+Bùi Quang Nam,226A010260,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,87,100,9.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,16,Không,Có,Không
+Đặng Đức Sơn,226A010261,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,68,100,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Có
+Nguyễn Anh Phúc,226A010262,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 1,21,88,3.8,40,Đại cương,Có,Tự luận,Không,Không,100,Không,Không,Không
+Trần Anh Tùng,226A010263,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 1,25,16,6.3,20,Đại cương,Có,Tự luận,Không,Không,83,Có,Không,Có
+Đặng Đức Khang,226A010264,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,83,100,9.8,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Không,Có
+Trần Hữu Hải,226A010265,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,39,55,3.5,60,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Trần Hữu An,226A010266,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 1,2,0,6.0,55,Đại cương,Có,Tự luận,Không,Không,22,Có,Có,Có
+Đặng Hữu Long,226A010267,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,78,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Nguyễn Anh Quân,226A010268,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,6,22,7.8,30,Chuyên ngành,Không,Trắc nghiệm,Không,Không,100,Không,Không,Có
+Đỗ Hữu Quân,226A010269,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,29,66,6.0,45,Chuyên ngành,Không,Tự luận,Không,Không,16,Có,Có,Không
+Đặng Thành Quân,226A010270,Ngoại ngữ,Ngôn ngữ Anh,226A003,Vật lý đại cương - Nhóm 1,64,100,9.0,100,Đại cương,Có,Tự luận,Không,Không,22,Có,Không,Có
+Võ Đức Long,226A010271,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,40,100,5.3,30,Chuyên ngành,Có,Trắc nghiệm,Không,Không,83,Có,Không,Không
+Trần Quang Phúc,226A010272,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,4,0,9.0,65,Chuyên ngành,Có,Tự luận,Không,Không,66,Không,Không,Có
+Trần Hữu Phúc,226A010273,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 1,100,83,3.8,100,Đại cương,Không,Tự luận,Có,Có,0,Có,Có,Có
+Nguyễn Thái Phúc,226A010274,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,39,100,7.5,70,Chuyên ngành,Không,Tự luận,Không,Không,0,Có,Không,Có
+Trần Đức Tùng,226A010275,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 1,27,44,9.0,45,Đại cương,Có,Tự luận,Không,Không,33,Không,Không,Có
+Võ Thành Phúc,226A010276,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,77,100,8.8,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Có,Không,Không
+Đặng Thành Cường,226A010277,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,10,83,6.5,30,Chuyên ngành,Không,Trắc nghiệm,Không,Không,50,Có,Có,Có
+Hoàng Thành Vinh,226A010278,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 1,57,100,7.3,90,Đại cương,Có,Tự luận,Không,Không,11,Không,Có,Có
+Nguyễn Văn Sơn,226A010279,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 1,89,100,8.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Nguyễn Hữu Long,226A010280,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,81,100,5.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Có,Có
+Đặng Thành Nam,226A010281,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 1,65,100,8.5,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Không,Có
+Đặng Đức Sơn,226A010282,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,41,100,9.5,50,Chuyên ngành,Có,Tự luận,Có,Có,0,Không,Không,Có
+Nguyễn Thái Bình,226A010283,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 1,52,100,4.3,55,Đại cương,Không,Trắc nghiệm,Không,Không,88,Có,Có,Có
+Đỗ Ngọc Quân,226A010284,Kỹ thuật điện,Điện công nghiệp,226A005,Kỹ năng giao tiếp - Nhóm 1,54,66,3.0,75,Đại cương,Có,Tự luận,Có,Không,100,Có,Có,Không
+Nguyễn Quang Long,226A010285,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,79,50,4.0,100,Chuyên ngành,Có,Trắc nghiệm,Có,Có,16,Có,Có,Có
+Bùi Thành Quân,226A010286,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,83,100,8.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Hoàng Thái Dũng,226A010287,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,24,44,9.0,70,Đại cương,Không,Trắc nghiệm,Không,Không,88,Có,Có,Có
+Hoàng Minh Dũng,226A010288,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 1,3,33,6.8,25,Đại cương,Có,Tự luận,Không,Không,83,Không,Không,Có
+Đặng Thái An,226A010289,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,31,66,1.0,30,Chuyên ngành,Có,Tự luận,Không,Không,100,Có,Không,Có
+Võ Gia Cường,226A010290,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,12,16,7.8,60,Chuyên ngành,Không,Trắc nghiệm,Có,Không,83,Không,Có,Có
+Lê Hữu Khang,226A010291,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 1,89,100,8.8,100,Đại cương,Có,Tự luận,Không,Không,22,Có,Không,Không
+Phạm Anh Hưng,226A010292,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 1,11,100,4.3,25,Đại cương,Không,Trắc nghiệm,Có,Có,55,Có,Không,Có
+Đặng Ngọc Tùng,226A010293,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 1,81,100,9.3,100,Đại cương,Có,Tự luận,Không,Không,25,Không,Có,Có
+Võ Quang Dũng,226A010294,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 1,82,100,8.8,100,Đại cương,Có,Tự luận,Có,Không,16,Có,Có,Có
+Bùi Anh Quân,226A010295,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 1,9,33,8.0,45,Đại cương,Không,Tự luận,Không,Không,83,Có,Không,Có
+Nguyễn Anh Sơn,226A010296,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,66,100,5.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Không,Có
+Phạm Thành Hải,226A010297,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,87,100,6.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Có,Có
+Đặng Quang An,226A010298,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,74,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Có,Có
+Đặng Gia Vinh,226A010299,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 1,54,100,4.8,60,Đại cương,Không,Tự luận,Không,Không,16,Có,Có,Không
+Võ Minh Phúc,226A010300,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,84,50,8.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,8,Có,Không,Không
+Trần Ngọc Bình,226A010301,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,82,100,9.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Nguyễn Thành Vinh,226A010302,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,30,50,5.5,80,Chuyên ngành,Không,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Lê Văn Cường,226A010303,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,65,66,4.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Không
+Lê Thành Hải,226A010304,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,70,100,9.5,100,Đại cương,Không,Tự luận,Không,Không,0,Không,Có,Không
+Đặng Hữu Hưng,226A010305,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,67,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,11,Có,Không,Không
+Lê Hữu Tùng,226A010306,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,61,100,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Không
+Phạm Quang Hải,226A010307,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 1,37,33,9.3,35,Đại cương,Không,Trắc nghiệm,Có,Có,83,Không,Có,Có
+Phạm Đức Sơn,226A010308,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,7,0,7.5,45,Chuyên ngành,Có,Trắc nghiệm,Có,Có,50,Có,Có,Có
+Nguyễn Hữu Tùng,226A010309,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,13,33,8.8,65,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Không,Không,Không
+Lê Ngọc Hải,226A010310,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 1,83,100,9.3,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Không
+Hoàng Thái Quân,226A010311,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,25,50,3.8,25,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Không,Có
+Huỳnh Minh Tùng,226A010312,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,62,100,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Nguyễn Hữu Vinh,226A010313,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,20,22,6.0,50,Chuyên ngành,Không,Tự luận,Không,Không,33,Không,Không,Có
+Đặng Quang An,226A010314,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,89,100,9.5,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Có,Không,Không
+Phạm Anh Long,226A010315,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 1,23,16,8.5,35,Đại cương,Không,Tự luận,Có,Có,50,Có,Có,Có
+Hoàng Minh Hưng,226A010316,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,81,100,9.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Huỳnh Hữu Quân,226A010317,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,65,100,7.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Bùi Thành An,226A010318,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 1,76,44,5.5,100,Đại cương,Có,Tự luận,Có,Không,0,Không,Không,Không
+Bùi Gia Nam,226A010319,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,34,77,9.5,65,Chuyên ngành,Có,Trắc nghiệm,Có,Có,55,Không,Có,Không
+Lê Thái Nam,226A010320,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 1,75,100,8.5,100,Đại cương,Có,Tự luận,Không,Không,22,Có,Không,Có
+Võ Ngọc Tùng,226A010321,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,96,0,7.8,100,Chuyên ngành,Không,Tự luận,Có,Có,75,Có,Không,Không
+Lê Ngọc Dũng,226A010322,Cơ khí,Chế tạo máy,226A005,Triết học Mác - Lênin - Nhóm 1,8,11,6.8,30,Đại cương,Không,Tự luận,Không,Không,100,Không,Không,Không
+Phạm Minh Bình,226A010323,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 1,68,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Bùi Gia Tùng,226A010324,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 1,75,77,6.8,100,Đại cương,Có,Tự luận,Không,Không,11,Có,Không,Không
+Hoàng Gia Bình,226A010325,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,22,16,7.0,40,Chuyên ngành,Không,Trắc nghiệm,Không,Không,100,Có,Không,Không
+Huỳnh Thành An,226A010326,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 1,39,11,6.3,80,Đại cương,Có,Tự luận,Không,Không,55,Có,Có,Có
+Nguyễn Ngọc Bình,226A010327,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 1,65,100,8.0,100,Đại cương,Không,Trắc nghiệm,Không,Không,16,Không,Không,Không
+Huỳnh Hữu Cường,226A010328,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 1,81,100,8.8,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Không,Không
+Trần Minh Dũng,226A010329,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,30,66,3.8,40,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Có,Có
+Phạm Văn Vinh,226A010330,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 1,63,50,8.8,100,Đại cương,Không,Trắc nghiệm,Có,Có,16,Có,Không,Không
+Lê Ngọc Phúc,226A010331,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,41,83,0.0,55,Chuyên ngành,Có,Trắc nghiệm,Có,Không,0,Không,Có,Không
+Nguyễn Thành An,226A010332,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,72,100,10.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Có,Không
+Hoàng Ngọc Cường,226A010333,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,18,11,6.8,55,Chuyên ngành,Không,Tự luận,Không,Không,33,Không,Không,Không
+Đỗ Ngọc Vinh,226A010334,Kỹ thuật điện,Điện dân dụng,226A005,Pháp luật đại cương - Nhóm 1,68,100,9.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,22,Không,Có,Không
+Nguyễn Minh Vinh,226A010335,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,63,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Võ Văn Hưng,226A010336,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 1,3,11,2.0,25,Đại cương,Có,Tự luận,Không,Không,66,Không,Không,Có
+Đỗ Quang Cường,226A010337,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 1,11,33,1.3,25,Đại cương,Không,Tự luận,Không,Không,33,Có,Có,Có
+Võ Quang Khang,226A010338,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 1,68,77,4.0,100,Đại cương,Có,Tự luận,Không,Không,11,Có,Có,Có
+Bùi Gia Long,226A010339,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 1,68,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Không,Có,Không
+Nguyễn Đức Phúc,226A010340,Công nghệ thông tin,Công nghệ phần mềm,226A001,Toán cao cấp - Nhóm 1,25,0,7.8,30,Đại cương,Không,Trắc nghiệm,Không,Không,33,Có,Không,Có
+Nguyễn Thái Khang,226A010341,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,77,100,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Trần Thành Khang,226A010342,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,87,100,8.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Phạm Văn Vinh,226A010343,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 1,72,100,9.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Không,Không,Không
+Võ Ngọc Dũng,226A010344,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 1,78,58,4.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Hoàng Hữu Cường,226A010345,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 1,84,100,8.3,100,Đại cương,Không,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Bùi Minh Nam,226A010346,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,76,100,8.8,100,Chuyên ngành,Không,Tự luận,Không,Không,16,Không,Có,Có
+Võ Đức Hưng,226A010347,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 1,26,50,2.8,35,Đại cương,Có,Tự luận,Không,Không,16,Không,Có,Có
+Đặng Quang Tùng,226A010348,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 1,14,100,9.5,35,Đại cương,Không,Trắc nghiệm,Có,Có,66,Không,Có,Có
+Võ Đức Long,226A010349,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,55,33,4.3,60,Chuyên ngành,Có,Trắc nghiệm,Không,Không,50,Có,Không,Không
+Nguyễn Thành Phúc,226A010350,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,28,50,5.8,55,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Võ Thành Phúc,226A010351,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 1,82,100,8.8,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Không,Có
+Bùi Anh Dũng,226A010352,Ngoại ngữ,Ngôn ngữ Trung,226A004,Toán cao cấp - Nhóm 1,7,44,0.0,25,Đại cương,Không,Tự luận,Không,Không,66,Có,Không,Không
+Lê Đức Phúc,226A010353,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 1,15,44,6.8,20,Đại cương,Không,Trắc nghiệm,Không,Không,100,Có,Không,Có
+Trần Quang Hải,226A010354,Kỹ thuật điện,Điện dân dụng,226A005,Triết học Mác - Lênin - Nhóm 1,87,100,9.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Hoàng Ngọc Vinh,226A010355,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,100,16,6.0,100,Chuyên ngành,Không,Tự luận,Không,Không,83,Không,Không,Không
+Phạm Anh Dũng,226A010356,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,99,22,2.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,44,Không,Có,Có
+Bùi Ngọc Hưng,226A010357,Công nghệ thông tin,An toàn thông tin,226A002,Vật lý đại cương - Nhóm 1,8,16,6.3,40,Đại cương,Có,Tự luận,Không,Không,66,Không,Không,Không
+Hoàng Thành An,226A010358,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,92,91,9.8,100,Chuyên ngành,Không,Trắc nghiệm,Có,Không,0,Không,Có,Có
+Nguyễn Anh Nam,226A010359,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 1,1,0,1.5,35,Đại cương,Không,Trắc nghiệm,Không,Không,50,Có,Có,Có
+Trần Thái Hưng,226A010360,Cơ khí,Chế tạo máy,226A005,Triết học Mác - Lênin - Nhóm 1,75,100,8.0,100,Đại cương,Có,Tự luận,Có,Không,16,Không,Có,Không
+Trần Hữu Nam,226A010361,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 1,68,100,9.5,100,Đại cương,Không,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Trần Thái Hải,226A010362,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,86,100,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Có,Không,Có
+Huỳnh Gia An,226A010363,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,75,100,8.3,100,Chuyên ngành,Không,Tự luận,Không,Không,16,Có,Có,Có
+Phạm Thái Tùng,226A010364,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,70,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Có,Không,Không
+Nguyễn Văn Hải,226A010365,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,75,100,9.5,100,Chuyên ngành,Có,Tự luận,Không,Không,8,Có,Không,Có
+Nguyễn Thái Khang,226A010366,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,85,100,8.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Võ Gia Tùng,226A010367,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,70,100,9.0,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Có,Không,Không
+Trần Đức Nam,226A010368,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,69,100,8.5,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Có,Không,Không
+Hoàng Thành Sơn,226A010369,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,70,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Không,Không,Có
+Lê Minh Dũng,226A010370,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,69,88,2.8,100,Chuyên ngành,Không,Trắc nghiệm,Có,Có,100,Có,Không,Có
+Lê Hữu Quân,226A010371,Kỹ thuật điện,Điện dân dụng,226A005,Pháp luật đại cương - Nhóm 1,22,0,7.5,30,Đại cương,Có,Trắc nghiệm,Không,Không,91,Không,Có,Không
+Trần Văn Quân,226A010372,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,0,33,8.3,65,Chuyên ngành,Có,Trắc nghiệm,Có,Không,100,Có,Có,Không
+Hoàng Thành Hưng,226A010373,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,84,100,7.3,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Huỳnh Minh Long,226A010374,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 1,63,100,10.0,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Không,Có
+Phạm Quang Sơn,226A010375,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,38,100,9.0,60,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Trần Ngọc Phúc,226A010376,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,20,77,7.3,20,Chuyên ngành,Không,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Huỳnh Thành An,226A010377,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 1,90,100,9.3,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Có
+Đặng Đức Quân,226A010378,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,54,100,8.0,90,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Có,Có
+Hoàng Gia Long,226A010379,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,97,66,8.3,100,Chuyên ngành,Có,Tự luận,Có,Không,50,Có,Có,Có
+Đặng Văn Hưng,226A010380,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,38,66,6.0,40,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Nguyễn Minh Tùng,226A010381,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,76,100,5.5,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Có,Không,Không
+Đỗ Minh Dũng,226A010382,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,84,100,9.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Phạm Minh Sơn,226A010383,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,80,100,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Hoàng Gia Sơn,226A010384,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 1,25,11,7.5,35,Đại cương,Có,Trắc nghiệm,Không,Không,77,Không,Có,Có
+Hoàng Thành Hải,226A010385,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 1,22,33,8.8,20,Đại cương,Có,Trắc nghiệm,Không,Không,33,Không,Có,Có
+Nguyễn Gia Hải,226A010386,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,25,22,3.5,40,Chuyên ngành,Có,Tự luận,Có,Không,55,Không,Không,Không
+Phạm Văn Quân,226A010387,Công nghệ thông tin,An toàn thông tin,226A002,Kỹ năng giao tiếp - Nhóm 1,10,100,5.5,35,Đại cương,Không,Tự luận,Có,Không,16,Không,Không,Có
+Hoàng Anh Vinh,226A010388,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,3,0,2.8,70,Chuyên ngành,Có,Tự luận,Không,Không,83,Không,Có,Có
+Bùi Thái Phúc,226A010389,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 1,3,0,7.0,30,Đại cương,Có,Tự luận,Không,Không,66,Không,Có,Không
+Võ Quang An,226A010390,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,75,100,7.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Không,Không,Có
+Đỗ Quang Dũng,226A010391,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 1,6,0,0.0,65,Đại cương,Không,Tự luận,Không,Không,83,Không,Không,Có
+Huỳnh Minh Tùng,226A010392,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,95,16,1.8,100,Chuyên ngành,Có,Tự luận,Không,Không,100,Có,Không,Có
+Võ Hữu Cường,226A010393,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,1,41,7.0,40,Chuyên ngành,Có,Trắc nghiệm,Không,Không,100,Không,Có,Có
+Đỗ Thành An,226A010394,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,78,100,9.5,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Lê Thái Nam,226A010395,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,42,100,9.5,55,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Không
+Bùi Thái Cường,226A010396,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,70,91,3.8,100,Chuyên ngành,Không,Trắc nghiệm,Có,Có,58,Có,Không,Có
+Huỳnh Văn Sơn,226A010397,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,69,100,8.8,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,22,Không,Có,Có
+Đặng Hữu Vinh,226A010398,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,66,100,5.3,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,16,Không,Không,Không
+Huỳnh Hữu Bình,226A010399,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 1,73,100,6.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Không,Có,Có
+Huỳnh Quang Nam,226A010400,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,18,100,6.0,50,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Không,Có,Không
+Võ Hữu Hưng,226A010401,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,24,22,6.8,45,Chuyên ngành,Không,Tự luận,Không,Không,55,Không,Không,Không
+Bùi Văn Tùng,226A010402,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,80,33,5.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,100,Có,Không,Có
+Bùi Minh Sơn,226A010403,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 1,63,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Đặng Gia An,226A010404,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 1,21,33,4.8,40,Đại cương,Có,Tự luận,Không,Không,55,Có,Có,Có
+Phạm Ngọc Vinh,226A010405,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 1,22,33,5.5,55,Đại cương,Có,Trắc nghiệm,Không,Không,50,Không,Không,Không
+Lê Ngọc Tùng,226A010406,Công nghệ thông tin,Công nghệ phần mềm,226A001,Toán cao cấp - Nhóm 1,83,100,8.8,100,Đại cương,Không,Tự luận,Không,Không,11,Có,Không,Có
+Đỗ Gia Sơn,226A010407,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,66,22,5.5,100,Chuyên ngành,Có,Trắc nghiệm,Có,Có,0,Có,Có,Có
+Hoàng Thái Dũng,226A010408,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,75,100,6.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Có,Không
+Bùi Thành An,226A010409,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,71,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,22,Có,Không,Không
+Trần Thái Dũng,226A010410,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,87,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Đỗ Minh Vinh,226A010411,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,29,33,6.8,60,Chuyên ngành,Không,Trắc nghiệm,Không,Không,83,Không,Không,Không
+Lê Thái Cường,226A010412,Ngoại ngữ,Ngôn ngữ Trung,226A004,Toán cao cấp - Nhóm 1,54,88,1.5,40,Đại cương,Có,Tự luận,Có,Có,55,Có,Có,Có
+Võ Thái Khang,226A010413,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,4,83,2.5,60,Chuyên ngành,Không,Trắc nghiệm,Không,Không,100,Không,Có,Có
+Đặng Minh Cường,226A010414,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 1,69,100,8.8,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Không
+Trần Gia Nam,226A010415,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,22,44,9.0,25,Chuyên ngành,Không,Trắc nghiệm,Có,Có,100,Không,Có,Không
+Trần Hữu Long,226A010416,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 1,85,100,8.5,100,Đại cương,Có,Trắc nghiệm,Có,Không,16,Có,Không,Có
+Đặng Quang Nam,226A010417,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 1,82,22,6.8,100,Đại cương,Không,Tự luận,Không,Không,100,Có,Không,Không
+Lê Thành Hưng,226A010418,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,18,16,6.8,40,Chuyên ngành,Có,Tự luận,Không,Không,83,Có,Không,Không
+Nguyễn Văn Phúc,226A010419,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,68,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Không,Không,Không
+Phạm Anh Hưng,226A010420,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,31,100,5.5,20,Chuyên ngành,Không,Trắc nghiệm,Không,Không,11,Không,Không,Không
+Huỳnh Hữu Long,226A010421,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 1,61,50,7.0,100,Đại cương,Không,Trắc nghiệm,Không,Không,8,Có,Không,Không
+Lê Anh Hải,226A010422,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 1,17,11,9.0,70,Đại cương,Có,Tự luận,Không,Không,22,Không,Không,Không
+Nguyễn Anh Vinh,226A010423,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 1,76,50,6.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Lê Anh Bình,226A010424,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,35,75,3.8,25,Chuyên ngành,Có,Trắc nghiệm,Có,Có,25,Có,Có,Không
+Lê Đức Hưng,226A010425,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,68,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,25,Không,Có,Có
+Đặng Thái Sơn,226A010426,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,64,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Có,Có,Có
+Đỗ Quang Long,226A010427,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 1,37,66,9.5,55,Đại cương,Không,Tự luận,Có,Không,91,Có,Có,Có
+Nguyễn Đức Nam,226A010428,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 1,16,16,3.5,50,Đại cương,Không,Tự luận,Không,Không,91,Không,Có,Có
+Nguyễn Thành Quân,226A010429,Công nghệ thông tin,An toàn thông tin,226A002,Kỹ năng giao tiếp - Nhóm 1,27,41,7.5,45,Đại cương,Có,Tự luận,Không,Không,83,Không,Không,Không
+Trần Hữu Hải,226A010430,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 1,73,100,9.3,100,Đại cương,Không,Tự luận,Không,Không,0,Có,Không,Có
+Phạm Quang Phúc,226A010431,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 1,89,66,6.0,100,Đại cương,Có,Tự luận,Có,Không,33,Không,Không,Có
+Hoàng Anh Hưng,226A010432,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 1,46,100,9.0,80,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Có
+Đỗ Quang Hải,226A010433,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,61,100,9.5,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,25,Không,Có,Không
+Nguyễn Văn Vinh,226A010434,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,76,100,9.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Nguyễn Gia Tùng,226A010435,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 1,87,100,7.3,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Có
+Phạm Ngọc Nam,226A010436,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,42,100,6.5,70,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Đặng Văn Hải,226A010437,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,23,55,5.5,65,Chuyên ngành,Không,Tự luận,Không,Không,66,Không,Không,Có
+Hoàng Thành Hải,226A010438,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,20,58,3.5,65,Chuyên ngành,Không,Trắc nghiệm,Không,Không,16,Không,Không,Không
+Trần Đức Khang,226A010439,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,90,100,9.3,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Có
+Nguyễn Ngọc Phúc,226A010440,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 1,59,100,7.5,80,Đại cương,Có,Trắc nghiệm,Có,Có,0,Có,Không,Không
+Bùi Thái Nam,226A010441,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,49,100,6.3,25,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Có,Có
+Lê Văn Dũng,226A010442,Ngoại ngữ,Ngôn ngữ Anh,226A003,Toán cao cấp - Nhóm 1,62,100,10.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,8,Không,Không,Không
+Hoàng Ngọc Phúc,226A010443,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 1,83,100,9.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Nguyễn Anh Tùng,226A010444,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,4,16,3.5,35,Chuyên ngành,Không,Tự luận,Không,Không,83,Không,Có,Không
+Bùi Đức Phúc,226A010445,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 1,18,0,6.8,60,Đại cương,Không,Trắc nghiệm,Không,Không,66,Không,Có,Không
+Võ Hữu Hưng,226A010446,Công nghệ thông tin,An toàn thông tin,226A002,Vật lý đại cương - Nhóm 1,28,0,1.5,55,Đại cương,Không,Trắc nghiệm,Không,Không,88,Không,Có,Có
+Võ Hữu Hưng,226A010447,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,28,66,4.5,40,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Bùi Thành Hưng,226A010448,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,15,100,1.5,45,Chuyên ngành,Không,Tự luận,Không,Không,25,Có,Không,Không
+Võ Đức Cường,226A010449,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,36,100,6.5,35,Chuyên ngành,Không,Trắc nghiệm,Không,Không,22,Có,Có,Có
+Nguyễn Hữu Dũng,226A010450,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,21,16,8.8,65,Chuyên ngành,Có,Tự luận,Không,Không,66,Không,Không,Có
+Đặng Thái Hưng,226A010451,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,75,100,8.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Không,Không,Không
+Trần Quang Khang,226A010452,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,4,0,1.8,70,Chuyên ngành,Không,Trắc nghiệm,Không,Không,33,Không,Không,Không
+Bùi Ngọc Hải,226A010453,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,65,100,9.3,100,Đại cương,Có,Tự luận,Không,Không,25,Có,Có,Có
+Hoàng Thái Hải,226A010454,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 1,13,44,0.0,25,Đại cương,Không,Tự luận,Có,Có,100,Có,Không,Có
+Võ Văn Sơn,226A010455,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 1,79,100,8.8,100,Đại cương,Có,Tự luận,Không,Không,16,Không,Có,Có
+Phạm Ngọc Dũng,226A010456,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,85,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Có,Không
+Trần Thái Long,226A010457,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,8,44,7.5,70,Chuyên ngành,Có,Trắc nghiệm,Không,Không,88,Không,Có,Có
+Lê Thành Bình,226A010458,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,83,100,9.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Có,Không
+Võ Đức Dũng,226A010459,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,85,100,8.3,100,Chuyên ngành,Không,Tự luận,Không,Không,16,Có,Không,Không
+Hoàng Hữu Cường,226A010460,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,71,100,5.0,100,Chuyên ngành,Có,Tự luận,Không,Không,8,Có,Có,Không
+Hoàng Gia Sơn,226A010461,Ngoại ngữ,Ngôn ngữ Anh,226A003,Vật lý đại cương - Nhóm 1,66,100,4.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,25,Không,Không,Không
+Phạm Hữu Quân,226A010462,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,32,100,8.0,90,Đại cương,Có,Tự luận,Có,Có,16,Có,Không,Không
+Nguyễn Anh Bình,226A010463,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,76,0,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,33,Có,Không,Có
+Lê Anh Khang,226A010464,Ngoại ngữ,Ngôn ngữ Anh,226A003,Vật lý đại cương - Nhóm 1,85,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Có
+Huỳnh Đức Hải,226A010465,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 1,85,88,5.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,55,Có,Có,Có
+Đặng Hữu Khang,226A010466,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 2,76,100,9.5,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Có,Không
+Đỗ Thái Sơn,226A010467,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,1,83,4.3,60,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Không,Không,Không
+Huỳnh Văn Long,226A010468,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 1,26,83,10.0,20,Đại cương,Có,Tự luận,Có,Không,50,Có,Không,Không
+Đặng Hữu Quân,226A010469,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,3,8,9.0,55,Chuyên ngành,Không,Tự luận,Có,Có,91,Không,Có,Không
+Bùi Thái Tùng,226A010470,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 1,20,0,8.5,60,Đại cương,Không,Tự luận,Không,Không,44,Có,Không,Không
+Huỳnh Hữu Vinh,226A010471,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,29,91,10.0,25,Chuyên ngành,Không,Tự luận,Không,Không,0,Có,Có,Có
+Lê Minh Nam,226A010472,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,86,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Không,Không,Không
+Võ Đức Long,226A010473,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 1,89,100,8.3,100,Đại cương,Không,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Đỗ Hữu Long,226A010474,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 2,5,100,10.0,60,Đại cương,Không,Tự luận,Không,Không,58,Có,Có,Có
+Đặng Anh An,226A010475,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,37,100,5.3,65,Chuyên ngành,Không,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Võ Đức Dũng,226A010476,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 1,4,8,7.8,50,Đại cương,Không,Trắc nghiệm,Không,Không,25,Không,Không,Có
+Đặng Minh Phúc,226A010477,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,12,41,6.8,35,Chuyên ngành,Có,Tự luận,Không,Không,33,Không,Có,Có
+Đặng Thành Sơn,226A010478,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,83,55,9.8,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Không,Không,Có
+Lê Hữu Sơn,226A010479,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 1,63,100,0.0,100,Đại cương,Có,Trắc nghiệm,Có,Không,22,Có,Không,Có
+Đặng Văn Khang,226A010480,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,65,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Hoàng Đức Nam,226A010481,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,30,0,6.8,60,Chuyên ngành,Có,Trắc nghiệm,Không,Không,100,Không,Không,Không
+Đặng Quang Phúc,226A010482,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,61,100,8.0,100,Chuyên ngành,Không,Tự luận,Không,Không,22,Có,Không,Có
+Huỳnh Minh Bình,226A010483,Ngoại ngữ,Ngôn ngữ Anh,226A003,Triết học Mác - Lênin - Nhóm 1,76,100,10.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Đỗ Đức Nam,226A010484,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 1,24,25,4.3,50,Đại cương,Có,Trắc nghiệm,Không,Không,66,Có,Không,Không
+Trần Quang Long,226A010485,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,99,100,5.8,100,Chuyên ngành,Không,Tự luận,Có,Có,8,Không,Không,Không
+Võ Ngọc Sơn,226A010486,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 1,67,100,5.0,100,Đại cương,Có,Tự luận,Có,Có,0,Có,Có,Có
+Phạm Đức Quân,226A010487,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 2,23,16,8.3,30,Đại cương,Không,Tự luận,Có,Có,100,Không,Không,Có
+Lê Minh Phúc,226A010488,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 1,22,33,9.0,40,Đại cương,Không,Trắc nghiệm,Không,Không,41,Có,Không,Không
+Hoàng Ngọc Hưng,226A010489,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 1,87,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Không
+Võ Ngọc Long,226A010490,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,65,0,8.3,100,Chuyên ngành,Không,Tự luận,Có,Không,55,Có,Không,Có
+Lê Quang Quân,226A010491,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,73,100,8.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Nguyễn Minh Dũng,226A010492,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 1,5,33,6.3,50,Đại cương,Có,Tự luận,Không,Không,33,Không,Không,Có
+Huỳnh Minh Hưng,226A010493,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,69,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,25,Có,Không,Có
+Lê Anh Cường,226A010494,Kỹ thuật điện,Điện dân dụng,226A005,Pháp luật đại cương - Nhóm 1,78,100,9.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Không,Có,Có
+Trần Văn Sơn,226A010495,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 1,89,100,0.0,100,Đại cương,Có,Trắc nghiệm,Có,Không,0,Có,Không,Không
+Đỗ Gia An,226A010496,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 1,85,100,0.0,100,Đại cương,Có,Tự luận,Có,Không,16,Không,Không,Không
+Huỳnh Gia Vinh,226A010497,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,31,50,3.3,50,Chuyên ngành,Có,Trắc nghiệm,Không,Không,25,Không,Có,Không
+Huỳnh Thành Hải,226A010498,Kỹ thuật điện,Điện dân dụng,226A005,Pháp luật đại cương - Nhóm 1,25,0,3.5,20,Đại cương,Không,Tự luận,Có,Có,100,Có,Không,Không
+Bùi Quang Sơn,226A010499,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,36,100,5.3,25,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Không
+Trần Thành Sơn,226A010500,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 1,46,0,8.8,35,Đại cương,Không,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Hoàng Ngọc Quân,226A010501,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 2,82,100,10.0,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Không,Không
+Nguyễn Văn Bình,226A010502,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,21,33,6.8,20,Chuyên ngành,Không,Trắc nghiệm,Không,Không,33,Không,Không,Có
+Đỗ Hữu Bình,226A010503,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 2,10,33,6.0,55,Đại cương,Có,Trắc nghiệm,Không,Không,77,Không,Không,Có
+Lê Ngọc Phúc,226A010504,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,25,33,7.3,55,Chuyên ngành,Có,Tự luận,Không,Không,50,Không,Có,Có
+Hoàng Thái Cường,226A010505,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,66,100,8.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Không,Không
+Bùi Gia Long,226A010506,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 2,66,100,9.8,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Có,Có
+Hoàng Văn Quân,226A010507,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,75,100,9.8,100,Chuyên ngành,Có,Tự luận,Không,Không,8,Có,Không,Không
+Võ Gia Hải,226A010508,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 2,25,0,7.8,20,Đại cương,Không,Tự luận,Không,Không,50,Không,Có,Có
+Lê Ngọc Dũng,226A010509,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,78,33,1.3,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,33,Có,Không,Có
+Đỗ Văn Bình,226A010510,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,90,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,8,Có,Có,Có
+Lê Thái Nam,226A010511,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 1,65,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Không,Không
+Đỗ Văn Dũng,226A010512,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,4,83,2.5,55,Chuyên ngành,Không,Trắc nghiệm,Có,Có,33,Có,Có,Không
+Trần Đức Hải,226A010513,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,28,77,5.3,20,Chuyên ngành,Không,Tự luận,Không,Không,22,Không,Không,Không
+Lê Gia Hải,226A010514,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 2,81,100,9.3,100,Đại cương,Không,Tự luận,Không,Không,8,Có,Có,Không
+Hoàng Quang Hưng,226A010515,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 1,30,22,7.3,30,Đại cương,Không,Tự luận,Không,Không,22,Không,Không,Không
+Võ Đức Sơn,226A010516,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 2,17,33,1.0,65,Đại cương,Có,Trắc nghiệm,Không,Không,33,Không,Có,Có
+Lê Anh Sơn,226A010517,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,61,100,9.8,100,Chuyên ngành,Không,Tự luận,Không,Không,22,Không,Có,Không
+Nguyễn Thành Hải,226A010518,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,84,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Đỗ Thành Tùng,226A010519,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,71,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,25,Có,Không,Có
+Huỳnh Minh Tùng,226A010520,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,72,100,8.5,100,Chuyên ngành,Có,Tự luận,Có,Không,22,Có,Có,Có
+Huỳnh Gia Sơn,226A010521,Ngoại ngữ,Ngôn ngữ Anh,226A003,Triết học Mác - Lênin - Nhóm 1,42,100,8.8,55,Đại cương,Có,Trắc nghiệm,Không,Không,0,Không,Không,Có
+Huỳnh Đức Hưng,226A010522,Công nghệ thông tin,Công nghệ phần mềm,226A001,Toán cao cấp - Nhóm 1,84,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Trần Đức Sơn,226A010523,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,14,33,8.0,30,Chuyên ngành,Không,Trắc nghiệm,Không,Không,55,Không,Không,Không
+Phạm Hữu Hải,226A010524,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 1,4,11,8.0,45,Đại cương,Có,Trắc nghiệm,Không,Không,66,Có,Có,Có
+Nguyễn Ngọc Hải,226A010525,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 1,18,0,7.3,25,Đại cương,Không,Tự luận,Không,Không,75,Có,Không,Không
+Bùi Thái Tùng,226A010526,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,79,91,0.0,100,Chuyên ngành,Có,Tự luận,Có,Không,8,Không,Có,Có
+Đỗ Thái Tùng,226A010527,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 1,56,100,7.5,50,Đại cương,Có,Tự luận,Không,Không,16,Có,Không,Có
+Võ Minh Cường,226A010528,Cơ khí,Chế tạo máy,226A005,Triết học Mác - Lênin - Nhóm 1,67,33,6.8,100,Đại cương,Có,Tự luận,Không,Không,100,Có,Không,Không
+Đỗ Ngọc Nam,226A010529,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,88,100,9.5,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Có
+Hoàng Văn Khang,226A010530,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,86,100,9.3,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Có,Có,Có
+Hoàng Minh Cường,226A010531,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,66,100,9.0,100,Chuyên ngành,Có,Tự luận,Có,Có,11,Có,Không,Không
+Đỗ Ngọc Quân,226A010532,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 2,68,100,9.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,25,Có,Không,Không
+Đặng Gia Phúc,226A010533,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,58,50,2.5,95,Chuyên ngành,Có,Tự luận,Không,Không,33,Có,Không,Không
+Trần Ngọc Hải,226A010534,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 2,83,0,6.5,100,Đại cương,Không,Trắc nghiệm,Có,Có,66,Có,Không,Có
+Lê Ngọc Quân,226A010535,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,15,66,7.8,30,Chuyên ngành,Không,Trắc nghiệm,Có,Không,16,Có,Không,Không
+Võ Quang Tùng,226A010536,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 1,4,8,7.8,35,Đại cương,Không,Trắc nghiệm,Không,Không,100,Không,Có,Có
+Trần Văn Khang,226A010537,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,68,100,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Trần Đức Vinh,226A010538,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 1,4,100,3.3,40,Đại cương,Có,Trắc nghiệm,Có,Không,77,Có,Có,Không
+Trần Anh Cường,226A010539,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 2,7,8,3.8,35,Đại cương,Không,Tự luận,Không,Không,83,Có,Có,Có
+Hoàng Minh Vinh,226A010540,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 2,29,0,2.0,50,Đại cương,Không,Trắc nghiệm,Không,Không,55,Không,Không,Không
+Nguyễn Gia Sơn,226A010541,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 1,19,16,9.8,25,Đại cương,Có,Trắc nghiệm,Không,Không,66,Không,Không,Có
+Lê Ngọc Vinh,226A010542,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 1,29,16,7.3,40,Đại cương,Không,Trắc nghiệm,Không,Không,83,Không,Có,Không
+Huỳnh Gia Quân,226A010543,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 1,76,100,9.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Lê Quang Hải,226A010544,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,89,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Trần Thái Cường,226A010545,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,75,100,9.0,100,Chuyên ngành,Có,Tự luận,Không,Không,8,Không,Không,Không
+Lê Minh Khang,226A010546,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 2,79,100,9.8,100,Đại cương,Không,Trắc nghiệm,Không,Không,22,Không,Không,Có
+Đặng Văn Dũng,226A010547,Cơ khí,Chế tạo máy,226A005,Triết học Mác - Lênin - Nhóm 2,3,25,5.0,30,Đại cương,Không,Trắc nghiệm,Không,Không,75,Không,Có,Có
+Phạm Gia Hưng,226A010548,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,78,100,9.8,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Không,Có,Không
+Trần Minh Vinh,226A010549,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,62,100,9.8,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Không
+Võ Ngọc An,226A010550,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,37,75,5.0,60,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Không,Không
+Nguyễn Hữu Long,226A010551,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,17,33,6.3,30,Chuyên ngành,Có,Tự luận,Không,Không,83,Không,Không,Có
+Trần Gia Bình,226A010552,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,56,0,5.3,60,Chuyên ngành,Không,Tự luận,Không,Không,16,Có,Có,Có
+Lê Anh Khang,226A010553,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 2,78,100,8.5,100,Đại cương,Có,Tự luận,Không,Không,25,Có,Không,Có
+Nguyễn Đức An,226A010554,Ngoại ngữ,Ngôn ngữ Anh,226A003,Toán cao cấp - Nhóm 1,15,33,6.3,20,Đại cương,Không,Tự luận,Không,Không,44,Không,Có,Không
+Huỳnh Minh Cường,226A010555,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,89,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Nguyễn Đức Hải,226A010556,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,62,100,9.3,100,Chuyên ngành,Có,Tự luận,Có,Có,0,Không,Có,Có
+Võ Đức Quân,226A010557,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 1,5,44,7.3,65,Đại cương,Có,Trắc nghiệm,Không,Không,88,Không,Không,Không
+Võ Văn Bình,226A010558,Ngoại ngữ,Ngôn ngữ Anh,226A003,Toán cao cấp - Nhóm 1,85,100,9.8,100,Đại cương,Có,Tự luận,Không,Không,11,Có,Không,Có
+Võ Minh Long,226A010559,Ngoại ngữ,Ngôn ngữ Anh,226A003,Triết học Mác - Lênin - Nhóm 2,33,33,2.5,40,Đại cương,Không,Trắc nghiệm,Không,Không,100,Không,Có,Có
+Võ Văn Vinh,226A010560,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,17,25,8.8,70,Chuyên ngành,Không,Trắc nghiệm,Không,Không,33,Không,Có,Không
+Hoàng Đức Vinh,226A010561,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,66,100,8.0,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Có,Có,Không
+Hoàng Gia Vinh,226A010562,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 2,69,100,9.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Huỳnh Đức Long,226A010563,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 1,86,100,9.0,100,Đại cương,Có,Tự luận,Không,Không,25,Có,Không,Không
+Bùi Thành Vinh,226A010564,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 1,84,91,10.0,100,Đại cương,Có,Trắc nghiệm,Có,Không,0,Có,Có,Không
+Trần Văn Quân,226A010565,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,87,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Không,Không,Không
+Trần Thành Tùng,226A010566,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,88,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Không
+Võ Thành Bình,226A010567,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 2,30,41,8.8,30,Đại cương,Không,Tự luận,Không,Không,41,Không,Không,Không
+Bùi Hữu Sơn,226A010568,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,79,100,8.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Không,Có
+Phạm Gia Nam,226A010569,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 2,50,66,2.8,35,Đại cương,Có,Tự luận,Có,Không,100,Có,Có,Không
+Huỳnh Quang Phúc,226A010570,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 2,63,16,1.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Lê Thái Hưng,226A010571,Cơ khí,Chế tạo máy,226A005,Triết học Mác - Lênin - Nhóm 2,7,83,4.5,20,Đại cương,Không,Tự luận,Không,Không,33,Có,Không,Không
+Lê Hữu Khang,226A010572,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 2,62,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,22,Có,Có,Có
+Huỳnh Thái Cường,226A010573,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,88,100,9.8,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Có
+Bùi Thành Quân,226A010574,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 2,87,100,9.8,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Không,Không
+Lê Văn Bình,226A010575,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 2,81,100,7.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Đỗ Văn Hải,226A010576,Ngoại ngữ,Ngôn ngữ Anh,226A003,Toán cao cấp - Nhóm 1,7,8,7.8,50,Đại cương,Không,Trắc nghiệm,Không,Không,50,Có,Có,Có
+Hoàng Gia Vinh,226A010577,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,2,0,6.5,35,Chuyên ngành,Có,Trắc nghiệm,Không,Không,41,Không,Không,Không
+Lê Thái Hưng,226A010578,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,49,100,6.3,85,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Không,Không
+Trần Hữu An,226A010579,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,88,100,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Có
+Nguyễn Thành Khang,226A010580,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,64,100,9.0,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Có,Không,Có
+Phạm Minh Phúc,226A010581,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,53,100,8.8,20,Chuyên ngành,Không,Trắc nghiệm,Không,Không,33,Có,Không,Không
+Phạm Minh Bình,226A010582,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,96,66,8.3,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,75,Không,Có,Có
+Trần Đức Sơn,226A010583,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,87,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Có,Không
+Phạm Anh Sơn,226A010584,Cơ khí,Chế tạo máy,226A005,Triết học Mác - Lênin - Nhóm 2,19,33,0.0,40,Đại cương,Có,Tự luận,Không,Không,25,Có,Có,Có
+Hoàng Minh Sơn,226A010585,Kỹ thuật điện,Điện dân dụng,226A005,Triết học Mác - Lênin - Nhóm 2,68,100,8.5,100,Đại cương,Có,Tự luận,Không,Không,16,Không,Không,Có
+Phạm Văn Khang,226A010586,Công nghệ thông tin,An toàn thông tin,226A002,Vật lý đại cương - Nhóm 2,82,100,8.0,100,Đại cương,Không,Tự luận,Không,Không,0,Có,Có,Có
+Võ Đức Dũng,226A010587,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,69,100,9.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Phạm Thành An,226A010588,Kỹ thuật điện,Điện công nghiệp,226A005,Kỹ năng giao tiếp - Nhóm 2,84,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Không
+Hoàng Ngọc Phúc,226A010589,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 1,1,0,5.0,30,Đại cương,Không,Tự luận,Không,Không,83,Không,Có,Không
+Võ Gia Long,226A010590,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 2,2,44,8.8,50,Đại cương,Có,Tự luận,Không,Không,22,Có,Không,Không
+Nguyễn Minh Quân,226A010591,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,90,66,1.0,100,Chuyên ngành,Có,Tự luận,Không,Không,66,Không,Có,Không
+Đặng Văn Quân,226A010592,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,19,0,4.8,20,Chuyên ngành,Không,Trắc nghiệm,Không,Không,83,Có,Có,Có
+Bùi Minh Phúc,226A010593,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,65,8,8.3,100,Chuyên ngành,Có,Tự luận,Có,Không,8,Có,Có,Có
+Nguyễn Văn Dũng,226A010594,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 2,50,50,1.3,55,Đại cương,Không,Trắc nghiệm,Không,Không,33,Có,Có,Không
+Trần Ngọc Dũng,226A010595,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 1,80,100,8.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Trần Quang Sơn,226A010596,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,20,100,5.5,30,Chuyên ngành,Không,Trắc nghiệm,Có,Có,66,Không,Không,Có
+Bùi Minh Cường,226A010597,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,60,100,6.5,85,Chuyên ngành,Có,Trắc nghiệm,Không,Không,25,Không,Có,Không
+Trần Đức Hưng,226A010598,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,87,100,10.0,100,Chuyên ngành,Không,Tự luận,Không,Không,8,Không,Không,Không
+Đỗ Quang Nam,226A010599,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 2,68,50,7.0,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Không
+Hoàng Thái Vinh,226A010600,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 1,21,88,0.0,70,Đại cương,Không,Tự luận,Có,Không,0,Có,Không,Không
+Bùi Minh Hải,226A010601,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 2,85,100,8.0,100,Đại cương,Có,Tự luận,Không,Không,22,Không,Có,Không
+Lê Ngọc Hưng,226A010602,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,33,16,3.0,75,Chuyên ngành,Có,Tự luận,Không,Không,41,Có,Không,Có
+Nguyễn Thành Phúc,226A010603,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,7,66,6.5,35,Chuyên ngành,Có,Tự luận,Có,Có,0,Có,Không,Không
+Lê Thành Cường,226A010604,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,27,22,4.0,50,Chuyên ngành,Không,Trắc nghiệm,Không,Không,100,Không,Không,Có
+Đỗ Thái An,226A010605,Ngoại ngữ,Ngôn ngữ Anh,226A003,Triết học Mác - Lênin - Nhóm 2,84,58,9.5,100,Đại cương,Có,Tự luận,Không,Không,8,Không,Không,Không
+Phạm Minh Bình,226A010606,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 2,81,11,8.0,100,Đại cương,Không,Trắc nghiệm,Không,Không,22,Có,Không,Không
+Huỳnh Ngọc An,226A010607,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 2,32,50,9.5,25,Đại cương,Không,Trắc nghiệm,Có,Không,83,Không,Không,Không
+Trần Hữu Hưng,226A010608,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 2,67,100,8.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Hoàng Đức An,226A010609,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 2,9,33,6.8,35,Đại cương,Không,Trắc nghiệm,Không,Không,83,Có,Có,Có
+Bùi Thành Tùng,226A010610,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,61,100,9.5,100,Chuyên ngành,Không,Tự luận,Không,Không,11,Không,Không,Không
+Lê Minh Hải,226A010611,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,65,100,8.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Có,Có
+Đặng Quang An,226A010612,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,79,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Bùi Ngọc Vinh,226A010613,Ngoại ngữ,Ngôn ngữ Trung,226A004,Toán cao cấp - Nhóm 2,74,100,9.8,100,Đại cương,Có,Tự luận,Có,Có,22,Không,Không,Không
+Hoàng Minh Dũng,226A010614,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,64,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Trần Ngọc Hưng,226A010615,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,68,100,9.8,100,Chuyên ngành,Không,Tự luận,Không,Không,16,Có,Có,Không
+Lê Anh Tùng,226A010616,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 2,22,33,4.5,25,Đại cương,Không,Trắc nghiệm,Có,Không,100,Không,Có,Không
+Lê Ngọc Cường,226A010617,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,12,0,7.3,70,Chuyên ngành,Có,Tự luận,Có,Không,0,Có,Có,Không
+Bùi Gia Dũng,226A010618,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,89,100,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Đặng Thái Vinh,226A010619,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 2,18,16,4.5,50,Đại cương,Không,Trắc nghiệm,Không,Không,83,Có,Có,Có
+Hoàng Hữu Vinh,226A010620,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,86,100,9.0,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Không,Không,Có
+Nguyễn Thái Tùng,226A010621,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 2,2,33,4.0,65,Đại cương,Không,Tự luận,Không,Không,66,Có,Không,Không
+Lê Thái Nam,226A010622,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 2,66,100,9.5,100,Đại cương,Không,Trắc nghiệm,Không,Không,0,Không,Không,Có
+Bùi Minh An,226A010623,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,34,55,3.0,30,Chuyên ngành,Có,Tự luận,Có,Có,0,Có,Không,Không
+Võ Anh Hải,226A010624,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 2,70,100,9.0,100,Đại cương,Có,Tự luận,Không,Không,16,Không,Có,Không
+Huỳnh Thành Tùng,226A010625,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 2,82,100,8.3,100,Đại cương,Có,Tự luận,Có,Không,25,Có,Không,Có
+Trần Gia Long,226A010626,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,100,0,8.5,100,Chuyên ngành,Không,Tự luận,Không,Không,66,Có,Không,Không
+Đỗ Quang Hải,226A010627,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,53,16,1.8,30,Chuyên ngành,Có,Trắc nghiệm,Có,Có,16,Có,Có,Không
+Bùi Thành Bình,226A010628,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,87,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Không,Không,Có
+Bùi Thái Vinh,226A010629,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,4,0,6.5,65,Chuyên ngành,Không,Tự luận,Không,Không,55,Không,Không,Có
+Lê Gia Tùng,226A010630,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,55,77,2.3,75,Chuyên ngành,Có,Tự luận,Không,Không,88,Có,Có,Không
+Võ Minh Tùng,226A010631,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,89,100,10.0,100,Chuyên ngành,Không,Tự luận,Không,Không,22,Có,Có,Có
+Đặng Minh Dũng,226A010632,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 2,81,100,9.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Đỗ Đức Hưng,226A010633,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,88,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Có,Có,Có
+Trần Quang Phúc,226A010634,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 2,80,16,7.3,100,Đại cương,Không,Tự luận,Không,Không,83,Có,Không,Không
+Đỗ Thái Bình,226A010635,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 2,26,0,6.0,70,Đại cương,Không,Tự luận,Không,Không,100,Không,Không,Có
+Lê Đức Phúc,226A010636,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,64,100,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Không
+Đỗ Hữu Phúc,226A010637,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 2,85,77,3.0,100,Đại cương,Không,Tự luận,Có,Không,33,Không,Có,Không
+Đỗ Minh Nam,226A010638,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 2,30,16,7.5,90,Đại cương,Có,Trắc nghiệm,Không,Không,100,Không,Có,Không
+Võ Hữu Cường,226A010639,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 2,28,41,9.0,60,Đại cương,Không,Tự luận,Có,Có,83,Không,Không,Có
+Nguyễn Đức Phúc,226A010640,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 2,5,25,7.0,40,Đại cương,Không,Trắc nghiệm,Không,Không,25,Không,Không,Không
+Nguyễn Đức Phúc,226A010641,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,62,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Hoàng Thái Bình,226A010642,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 2,11,100,9.3,35,Đại cương,Có,Trắc nghiệm,Có,Có,44,Có,Có,Có
+Hoàng Hữu Cường,226A010643,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 2,65,100,10.0,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Không,Không
+Phạm Quang Dũng,226A010644,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,76,100,8.0,100,Chuyên ngành,Không,Tự luận,Không,Không,16,Có,Không,Có
+Bùi Minh Phúc,226A010645,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 2,10,11,3.8,65,Đại cương,Có,Tự luận,Không,Không,33,Không,Có,Không
+Hoàng Hữu An,226A010646,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,80,16,6.8,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,100,Có,Có,Không
+Phạm Đức Khang,226A010647,Kỹ thuật điện,Điện công nghiệp,226A005,Kỹ năng giao tiếp - Nhóm 2,66,100,8.3,100,Đại cương,Có,Tự luận,Có,Có,0,Có,Có,Có
+Trần Hữu Bình,226A010648,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,78,100,9.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,25,Không,Không,Có
+Đặng Gia Quân,226A010649,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 2,4,11,7.5,70,Đại cương,Không,Tự luận,Có,Không,66,Không,Có,Không
+Trần Thành Sơn,226A010650,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,80,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,16,Có,Có,Có
+Võ Thành Tùng,226A010651,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,27,50,6.0,50,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Không
+Đỗ Gia Dũng,226A010652,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 2,63,100,8.3,100,Đại cương,Không,Trắc nghiệm,Không,Không,25,Có,Có,Có
+Lê Hữu Bình,226A010653,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,74,100,8.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Đặng Quang Khang,226A010654,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,72,77,9.8,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Không,Có,Không
+Đỗ Đức An,226A010655,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,74,100,8.0,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Có,Không,Không
+Đặng Anh An,226A010656,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 2,50,8,7.0,80,Đại cương,Không,Tự luận,Không,Không,100,Không,Không,Có
+Đặng Quang Quân,226A010657,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 2,73,100,9.0,100,Đại cương,Có,Trắc nghiệm,Có,Không,0,Có,Có,Không
+Phạm Đức Cường,226A010658,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,83,100,9.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Huỳnh Minh An,226A010659,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,67,100,10.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Không,Có,Không
+Võ Quang Khang,226A010660,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 2,67,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Có
+Phạm Thái Long,226A010661,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,71,100,9.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,22,Có,Có,Không
+Đỗ Thành Hưng,226A010662,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 2,62,100,9.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Lê Văn Khang,226A010663,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,74,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Võ Đức Tùng,226A010664,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,67,100,8.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Đỗ Thái Bình,226A010665,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,67,100,9.3,100,Chuyên ngành,Không,Tự luận,Không,Không,11,Có,Có,Có
+Đặng Gia Quân,226A010666,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 2,53,100,9.8,60,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Phạm Hữu Khang,226A010667,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 2,37,66,3.3,80,Đại cương,Có,Trắc nghiệm,Không,Không,11,Có,Không,Có
+Đặng Quang Khang,226A010668,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 2,10,0,6.8,70,Đại cương,Không,Tự luận,Không,Không,66,Có,Không,Không
+Nguyễn Văn Sơn,226A010669,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 2,89,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Không
+Đặng Thái Vinh,226A010670,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 2,83,100,9.0,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Có,Có
+Đặng Anh Hưng,226A010671,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,30,16,7.3,40,Chuyên ngành,Có,Tự luận,Không,Không,100,Không,Không,Có
+Lê Anh Sơn,226A010672,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,36,100,6.5,90,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Không
+Nguyễn Thành Phúc,226A010673,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 2,94,16,9.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,8,Không,Không,Không
+Lê Hữu Vinh,226A010674,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,26,33,7.3,20,Chuyên ngành,Có,Tự luận,Không,Không,50,Không,Không,Không
+Võ Quang Sơn,226A010675,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 2,90,100,8.8,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Không,Không
+Bùi Minh Hải,226A010676,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,62,100,9.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,22,Không,Không,Không
+Hoàng Minh Cường,226A010677,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 2,55,100,7.5,80,Đại cương,Có,Trắc nghiệm,Có,Có,16,Không,Có,Có
+Đỗ Đức Phúc,226A010678,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,87,100,7.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Không,Không
+Trần Đức Long,226A010679,Ngoại ngữ,Ngôn ngữ Trung,226A004,Toán cao cấp - Nhóm 2,69,0,3.5,100,Đại cương,Có,Trắc nghiệm,Có,Có,16,Có,Không,Không
+Hoàng Hữu An,226A010680,Cơ khí,Chế tạo máy,226A005,Triết học Mác - Lênin - Nhóm 2,77,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,25,Có,Không,Có
+Phạm Minh Cường,226A010681,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 2,53,100,7.0,80,Đại cương,Có,Tự luận,Không,Không,16,Có,Không,Có
+Bùi Hữu Phúc,226A010682,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,43,33,3.8,20,Chuyên ngành,Không,Trắc nghiệm,Không,Không,44,Có,Có,Không
+Võ Văn Sơn,226A010683,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 2,32,100,9.8,75,Đại cương,Không,Tự luận,Có,Có,77,Có,Có,Có
+Nguyễn Quang Sơn,226A010684,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 2,63,100,9.0,100,Đại cương,Có,Trắc nghiệm,Có,Có,0,Có,Có,Không
+Võ Văn Sơn,226A010685,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 2,86,100,9.8,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Có,Không
+Lê Anh Dũng,226A010686,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 2,53,77,6.8,95,Đại cương,Có,Trắc nghiệm,Có,Có,0,Có,Có,Có
+Phạm Ngọc An,226A010687,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 2,64,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,22,Có,Có,Không
+Phạm Anh Cường,226A010688,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 2,50,100,6.8,95,Đại cương,Không,Trắc nghiệm,Có,Không,0,Không,Không,Có
+Bùi Anh Sơn,226A010689,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,96,83,4.0,100,Chuyên ngành,Không,Tự luận,Không,Không,75,Có,Không,Có
+Đỗ Quang Nam,226A010690,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 2,2,0,4.8,25,Đại cương,Có,Tự luận,Không,Không,83,Không,Có,Có
+Đặng Minh Khang,226A010691,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,70,100,9.8,100,Chuyên ngành,Không,Tự luận,Không,Không,25,Có,Không,Có
+Trần Minh Phúc,226A010692,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,72,100,8.8,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Không,Có,Có
+Đặng Gia Quân,226A010693,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,81,66,5.8,100,Chuyên ngành,Có,Trắc nghiệm,Có,Có,16,Có,Có,Không
+Trần Thành Nam,226A010694,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 2,72,100,10.0,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Không,Có
+Huỳnh Thành Long,226A010695,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,57,11,2.8,45,Chuyên ngành,Không,Trắc nghiệm,Có,Không,77,Không,Có,Có
+Phạm Thành Quân,226A010696,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,35,66,6.5,20,Chuyên ngành,Không,Tự luận,Có,Không,50,Có,Không,Có
+Đặng Minh Khang,226A010697,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 2,24,22,2.5,65,Đại cương,Có,Tự luận,Không,Không,100,Có,Không,Không
+Phạm Thành Nam,226A010698,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 2,64,100,8.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Nguyễn Thành Dũng,226A010699,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,45,100,9.5,90,Chuyên ngành,Có,Trắc nghiệm,Có,Có,0,Có,Không,Có
+Bùi Văn Hải,226A010700,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,87,0,3.3,100,Chuyên ngành,Không,Tự luận,Có,Không,0,Có,Không,Không
+Lê Quang Quân,226A010701,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,70,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Đỗ Văn Cường,226A010702,Ngoại ngữ,Ngôn ngữ Trung,226A004,Toán cao cấp - Nhóm 2,13,41,8.5,70,Đại cương,Có,Tự luận,Không,Không,66,Không,Không,Không
+Võ Quang Hải,226A010703,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,40,50,2.3,25,Chuyên ngành,Không,Tự luận,Có,Không,0,Có,Có,Không
+Đặng Gia Hải,226A010704,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,87,100,9.3,100,Chuyên ngành,Có,Trắc nghiệm,Có,Có,16,Có,Có,Có
+Trần Thái Cường,226A010705,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,78,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Không,Không,Không
+Huỳnh Quang Phúc,226A010706,Công nghệ thông tin,Công nghệ phần mềm,226A001,Toán cao cấp - Nhóm 2,1,0,7.3,50,Đại cương,Không,Tự luận,Không,Không,100,Có,Không,Không
+Lê Văn Quân,226A010707,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,67,100,10.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Nguyễn Minh Quân,226A010708,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 2,6,0,8.0,20,Đại cương,Có,Trắc nghiệm,Không,Không,22,Không,Có,Có
+Đỗ Đức Tùng,226A010709,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,68,100,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Không,Không
+Hoàng Minh Hưng,226A010710,Kỹ thuật điện,Điện công nghiệp,226A005,Kỹ năng giao tiếp - Nhóm 2,43,100,5.8,90,Đại cương,Có,Trắc nghiệm,Không,Không,22,Không,Không,Có
+Phạm Đức Sơn,226A010711,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 2,68,100,8.0,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Có
+Đỗ Thành Vinh,226A010712,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,63,100,8.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Võ Gia Khang,226A010713,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,74,66,7.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Không,Có,Có
+Phạm Anh Vinh,226A010714,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 2,63,100,10.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Không,Không,Có
+Đặng Đức Nam,226A010715,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,56,0,8.5,50,Chuyên ngành,Có,Tự luận,Có,Có,58,Có,Có,Có
+Lê Ngọc Tùng,226A010716,Công nghệ thông tin,An toàn thông tin,226A002,Kỹ năng giao tiếp - Nhóm 2,69,100,9.5,100,Đại cương,Có,Tự luận,Không,Không,25,Có,Có,Có
+Lê Gia Vinh,226A010717,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,72,100,9.3,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Có,Không,Không
+Nguyễn Hữu Cường,226A010718,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 2,28,50,3.5,30,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Có
+Đỗ Thành Long,226A010719,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,86,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Không,Có,Không
+Lê Thành Hưng,226A010720,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 2,68,100,8.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,11,Không,Không,Có
+Phạm Đức Khang,226A010721,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,78,100,9.3,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,25,Có,Có,Có
+Phạm Quang Vinh,226A010722,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 2,70,100,8.5,100,Đại cương,Không,Tự luận,Không,Không,0,Có,Không,Có
+Lê Quang Hưng,226A010723,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 2,10,0,9.0,45,Đại cương,Không,Tự luận,Không,Không,33,Không,Không,Không
+Bùi Thành Long,226A010724,Công nghệ thông tin,An toàn thông tin,226A002,Kỹ năng giao tiếp - Nhóm 2,67,100,9.8,100,Đại cương,Không,Trắc nghiệm,Không,Không,11,Có,Có,Không
+Nguyễn Minh Sơn,226A010725,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,21,16,6.8,20,Chuyên ngành,Có,Trắc nghiệm,Không,Không,50,Có,Có,Không
+Huỳnh Minh Hải,226A010726,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,83,66,5.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Lê Đức Sơn,226A010727,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 2,99,0,5.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,83,Không,Không,Có
+Bùi Quang Hải,226A010728,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 2,76,100,8.0,100,Đại cương,Có,Tự luận,Không,Không,22,Có,Có,Không
+Bùi Thành Quân,226A010729,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 2,8,25,1.3,20,Đại cương,Có,Trắc nghiệm,Không,Không,100,Có,Có,Không
+Đặng Thành Dũng,226A010730,Công nghệ thông tin,An toàn thông tin,226A002,Vật lý đại cương - Nhóm 2,87,100,7.3,100,Đại cương,Có,Tự luận,Có,Có,0,Có,Có,Có
+Trần Anh An,226A010731,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,80,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Có,Có
+Hoàng Anh Hưng,226A010732,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 2,67,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Nguyễn Quang Long,226A010733,Ngoại ngữ,Ngôn ngữ Anh,226A003,Vật lý đại cương - Nhóm 2,25,11,7.5,65,Đại cương,Có,Trắc nghiệm,Không,Không,66,Không,Không,Có
+Nguyễn Quang Vinh,226A010734,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,66,100,9.3,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Không,Có,Có
+Hoàng Hữu Cường,226A010735,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 2,0,44,0.0,35,Đại cương,Có,Tự luận,Không,Không,33,Có,Không,Có
+Hoàng Thái Sơn,226A010736,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 2,91,33,3.0,100,Đại cương,Có,Trắc nghiệm,Có,Không,77,Không,Không,Có
+Hoàng Quang An,226A010737,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 2,84,83,8.0,100,Đại cương,Có,Tự luận,Không,Không,33,Có,Không,Có
+Hoàng Ngọc Khang,226A010738,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 2,20,8,6.5,45,Đại cương,Có,Tự luận,Không,Không,50,Có,Không,Có
+Nguyễn Thành Dũng,226A010739,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,83,100,8.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Bùi Gia Long,226A010740,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,72,100,9.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,22,Có,Có,Có
+Lê Thành Dũng,226A010741,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 2,66,100,10.0,100,Đại cương,Không,Trắc nghiệm,Có,Không,16,Có,Không,Không
+Trần Hữu An,226A010742,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,96,100,8.5,100,Chuyên ngành,Có,Tự luận,Có,Không,66,Có,Có,Có
+Trần Minh Cường,226A010743,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 2,5,50,4.5,40,Đại cương,Không,Tự luận,Không,Không,100,Có,Có,Không
+Phạm Ngọc Long,226A010744,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 2,7,16,6.8,50,Đại cương,Có,Trắc nghiệm,Không,Không,100,Có,Có,Không
+Huỳnh Văn Sơn,226A010745,Công nghệ thông tin,Công nghệ phần mềm,226A001,Toán cao cấp - Nhóm 2,88,100,8.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,22,Có,Không,Không
+Bùi Hữu Hải,226A010746,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,64,100,9.8,100,Chuyên ngành,Không,Tự luận,Không,Không,8,Có,Có,Có
+Lê Văn Cường,226A010747,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,67,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,25,Có,Có,Không
+Võ Anh Khang,226A010748,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,3,33,8.5,70,Chuyên ngành,Có,Tự luận,Không,Không,66,Không,Có,Không
+Nguyễn Gia Phúc,226A010749,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,70,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Có,Có,Có
+Bùi Anh Quân,226A010750,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 2,0,16,6.5,70,Đại cương,Không,Trắc nghiệm,Không,Không,91,Không,Không,Không
+Đặng Hữu Quân,226A010751,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 2,61,100,10.0,100,Đại cương,Không,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Nguyễn Gia Phúc,226A010752,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 2,37,66,6.3,45,Đại cương,Có,Tự luận,Có,Có,22,Không,Có,Có
+Hoàng Văn Bình,226A010753,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 2,56,75,5.5,50,Đại cương,Có,Trắc nghiệm,Không,Không,41,Không,Có,Có
+Võ Quang Long,226A010754,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,79,100,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Không,Không,Có
+Võ Văn Hưng,226A010755,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,84,100,6.8,100,Chuyên ngành,Không,Tự luận,Không,Không,22,Có,Có,Không
+Lê Thành Cường,226A010756,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,26,33,7.0,40,Chuyên ngành,Có,Trắc nghiệm,Không,Không,50,Không,Có,Không
+Nguyễn Anh Phúc,226A010757,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 2,64,100,9.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Nguyễn Quang Long,226A010758,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,76,58,4.3,100,Chuyên ngành,Có,Tự luận,Có,Không,50,Có,Không,Không
+Nguyễn Quang Tùng,226A010759,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 2,34,100,1.8,45,Đại cương,Không,Tự luận,Không,Không,50,Có,Không,Không
+Nguyễn Minh Long,226A010760,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 2,9,25,0.0,35,Đại cương,Không,Tự luận,Không,Không,66,Không,Không,Có
+Trần Hữu Hải,226A010761,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,10,0,2.8,60,Chuyên ngành,Có,Trắc nghiệm,Không,Không,58,Không,Không,Có
+Hoàng Thành Bình,226A010762,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,75,100,8.3,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Có,Có,Có
+Nguyễn Hữu Quân,226A010763,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,62,100,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Nguyễn Thái An,226A010764,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,71,100,8.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Không,Không,Có
+Phạm Thái Dũng,226A010765,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 2,74,100,8.0,100,Đại cương,Không,Tự luận,Không,Không,16,Có,Có,Có
+Đặng Anh Tùng,226A010766,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 2,61,100,9.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Không,Có,Có
+Đặng Đức Cường,226A010767,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 2,25,16,7.5,65,Đại cương,Không,Tự luận,Không,Không,33,Có,Có,Có
+Phạm Thành Quân,226A010768,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,100,41,2.0,100,Chuyên ngành,Không,Tự luận,Có,Không,16,Không,Có,Có
+Bùi Quang Long,226A010769,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 2,22,33,6.0,50,Đại cương,Có,Trắc nghiệm,Không,Không,33,Không,Không,Không
+Nguyễn Anh Khang,226A010770,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,78,100,9.5,100,Chuyên ngành,Có,Tự luận,Không,Không,8,Có,Không,Không
+Trần Ngọc Khang,226A010771,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 2,54,100,5.8,40,Đại cương,Có,Tự luận,Không,Không,16,Không,Có,Không
+Lê Anh Hưng,226A010772,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 2,61,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Võ Anh Vinh,226A010773,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 2,82,100,8.5,100,Đại cương,Có,Tự luận,Không,Không,8,Có,Không,Không
+Hoàng Anh Vinh,226A010774,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,53,77,7.0,45,Chuyên ngành,Không,Trắc nghiệm,Không,Không,88,Không,Không,Có
+Bùi Thái Nam,226A010775,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,56,100,9.0,70,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Lê Thái Tùng,226A010776,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 2,70,66,4.8,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Có,Không
+Đặng Minh Nam,226A010777,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,73,100,8.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Trần Hữu Bình,226A010778,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,23,50,5.3,70,Chuyên ngành,Không,Tự luận,Không,Không,33,Có,Có,Có
+Bùi Thành An,226A010779,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 2,7,41,6.3,60,Đại cương,Có,Tự luận,Không,Không,25,Không,Có,Không
+Đặng Văn Hưng,226A010780,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,79,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Đỗ Minh Dũng,226A010781,Công nghệ thông tin,An toàn thông tin,226A002,Kỹ năng giao tiếp - Nhóm 2,71,100,9.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,22,Không,Có,Có
+Huỳnh Văn Vinh,226A010782,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,77,100,8.3,100,Chuyên ngành,Có,Tự luận,Có,Không,16,Có,Không,Không
+Bùi Văn Cường,226A010783,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,53,11,3.3,80,Chuyên ngành,Không,Trắc nghiệm,Có,Không,100,Có,Có,Có
+Huỳnh Văn An,226A010784,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,78,100,10.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,16,Không,Có,Có
+Huỳnh Quang Long,226A010785,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 2,90,100,9.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,22,Có,Có,Có
+Lê Thành Quân,226A010786,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 2,88,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,22,Có,Có,Không
+Đặng Thái Bình,226A010787,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 2,16,33,6.8,35,Đại cương,Có,Tự luận,Không,Không,100,Không,Không,Không
+Đặng Đức Phúc,226A010788,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,71,100,8.0,100,Chuyên ngành,Không,Trắc nghiệm,Có,Không,0,Có,Không,Không
+Lê Thành Tùng,226A010789,Công nghệ thông tin,An toàn thông tin,226A002,Vật lý đại cương - Nhóm 2,76,100,9.0,100,Đại cương,Không,Trắc nghiệm,Không,Không,8,Có,Không,Có
+Đặng Đức Bình,226A010790,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,88,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Có,Có,16,Có,Có,Có
+Đỗ Văn Long,226A010791,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,80,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Nguyễn Hữu Vinh,226A010792,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,66,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Không,Không
+Đỗ Văn Hải,226A010793,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 2,82,100,9.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,8,Có,Không,Có
+Đặng Quang Hưng,226A010794,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 2,5,0,5.0,20,Đại cương,Không,Tự luận,Không,Không,25,Có,Không,Có
+Nguyễn Đức Vinh,226A010795,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,78,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,8,Có,Có,Có
+Hoàng Đức Long,226A010796,Kỹ thuật điện,Điện dân dụng,226A005,Pháp luật đại cương - Nhóm 2,46,41,5.8,35,Đại cương,Có,Trắc nghiệm,Không,Không,100,Không,Có,Có
+Đỗ Hữu Hưng,226A010797,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 2,1,16,6.0,40,Đại cương,Không,Trắc nghiệm,Không,Không,100,Có,Có,Không
+Võ Hữu Quân,226A010798,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 2,16,16,7.0,35,Đại cương,Không,Trắc nghiệm,Không,Không,100,Không,Không,Có
+Võ Thái Dũng,226A010799,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 2,67,100,9.3,100,Đại cương,Không,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Nguyễn Quang Sơn,226A010800,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,84,100,8.0,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,16,Có,Không,Không
+Lê Ngọc Cường,226A010801,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,67,100,8.3,100,Chuyên ngành,Có,Tự luận,Có,Không,16,Không,Có,Không
+Phạm Gia Phúc,226A010802,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 2,75,77,7.3,100,Đại cương,Không,Trắc nghiệm,Không,Không,11,Có,Không,Không
+Đặng Minh Phúc,226A010803,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,39,100,10.0,70,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Có
+Huỳnh Gia An,226A010804,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 2,71,100,9.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,8,Có,Không,Không
+Võ Văn Sơn,226A010805,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,86,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Đặng Ngọc Cường,226A010806,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,74,100,9.3,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Có,Không,Không
+Lê Ngọc Vinh,226A010807,Kỹ thuật điện,Điện dân dụng,226A005,Triết học Mác - Lênin - Nhóm 2,34,41,8.5,40,Đại cương,Không,Tự luận,Không,Không,25,Không,Có,Không
+Phạm Văn Hải,226A010808,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,72,100,9.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Huỳnh Đức Khang,226A010809,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,78,100,5.0,100,Chuyên ngành,Có,Trắc nghiệm,Có,Có,16,Có,Có,Không
+Đỗ Minh Hải,226A010810,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,51,100,8.8,45,Chuyên ngành,Có,Tự luận,Không,Không,8,Có,Có,Có
+Phạm Hữu Khang,226A010811,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 2,60,100,8.3,40,Đại cương,Có,Trắc nghiệm,Không,Không,25,Có,Không,Không
+Bùi Gia Sơn,226A010812,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,9,77,2.3,45,Chuyên ngành,Có,Tự luận,Không,Không,33,Không,Có,Không
+Võ Gia An,226A010813,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 2,24,33,5.8,30,Đại cương,Không,Tự luận,Có,Không,66,Có,Không,Có
+Trần Thái Nam,226A010814,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 2,6,33,6.3,45,Đại cương,Không,Trắc nghiệm,Không,Không,66,Có,Có,Có
+Lê Thành Quân,226A010815,Cơ khí,Chế tạo máy,226A005,Triết học Mác - Lênin - Nhóm 2,73,100,8.8,100,Đại cương,Không,Tự luận,Không,Không,25,Không,Có,Không
+Lê Thành Hưng,226A010816,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,30,44,6.3,20,Chuyên ngành,Có,Trắc nghiệm,Không,Không,44,Có,Có,Không
+Huỳnh Quang Quân,226A010817,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,14,88,3.5,35,Chuyên ngành,Có,Trắc nghiệm,Không,Không,77,Có,Có,Không
+Lê Ngọc An,226A010818,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 2,18,33,1.8,50,Đại cương,Không,Tự luận,Không,Không,50,Không,Không,Có
+Lê Hữu Hải,226A010819,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,70,100,6.0,100,Chuyên ngành,Không,Tự luận,Không,Không,25,Có,Có,Có
+Hoàng Gia Quân,226A010820,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 2,68,100,10.0,100,Đại cương,Có,Tự luận,Không,Không,25,Có,Không,Không
+Võ Hữu Dũng,226A010821,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,85,16,6.8,100,Chuyên ngành,Có,Tự luận,Không,Không,100,Có,Không,Không
+Lê Thái An,226A010822,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 2,85,66,9.8,100,Đại cương,Không,Tự luận,Có,Không,22,Có,Không,Không
+Hoàng Đức Dũng,226A010823,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 2,40,77,5.3,85,Đại cương,Không,Tự luận,Không,Không,22,Có,Không,Không
+Đặng Ngọc Long,226A010824,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,66,100,5.8,100,Chuyên ngành,Có,Tự luận,Có,Có,22,Không,Có,Không
+Bùi Văn Hưng,226A010825,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,74,100,8.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Đỗ Đức Phúc,226A010826,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 2,26,88,6.3,55,Đại cương,Không,Trắc nghiệm,Có,Có,22,Có,Không,Có
+Lê Anh Long,226A010827,Công nghệ thông tin,An toàn thông tin,226A002,Kỹ năng giao tiếp - Nhóm 2,23,22,8.5,35,Đại cương,Có,Tự luận,Không,Không,100,Không,Không,Có
+Phạm Đức Khang,226A010828,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 2,3,25,6.5,40,Đại cương,Có,Tự luận,Không,Không,83,Không,Có,Có
+Võ Đức Quân,226A010829,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,81,100,10.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,8,Không,Không,Có
+Đặng Minh An,226A010830,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,70,100,9.5,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Có,Không,Không
+Lê Thái Hải,226A010831,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 2,26,16,8.0,20,Đại cương,Không,Trắc nghiệm,Không,Không,100,Không,Có,Không
+Bùi Hữu Dũng,226A010832,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 2,7,41,8.0,65,Đại cương,Không,Trắc nghiệm,Không,Không,66,Có,Không,Không
+Trần Văn Bình,226A010833,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,35,41,1.5,55,Chuyên ngành,Không,Trắc nghiệm,Có,Có,25,Có,Có,Không
+Đỗ Quang Vinh,226A010834,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,8,33,7.3,55,Chuyên ngành,Không,Tự luận,Không,Không,100,Không,Có,Có
+Trần Anh Quân,226A010835,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,69,100,8.3,100,Chuyên ngành,Có,Tự luận,Có,Không,25,Có,Có,Không
+Trần Ngọc Phúc,226A010836,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 2,22,44,4.0,25,Đại cương,Không,Tự luận,Không,Không,77,Không,Có,Không
+Đỗ Ngọc Long,226A010837,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 2,10,0,7.0,40,Đại cương,Có,Trắc nghiệm,Không,Không,50,Không,Không,Có
+Huỳnh Thành Bình,226A010838,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,90,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Không,Không
+Bùi Anh Hưng,226A010839,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 2,71,100,9.3,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Có
+Đặng Quang Tùng,226A010840,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,19,16,3.5,30,Chuyên ngành,Không,Tự luận,Không,Không,100,Không,Không,Không
+Hoàng Văn Tùng,226A010841,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,34,66,7.5,35,Chuyên ngành,Không,Tự luận,Không,Không,77,Có,Không,Không
+Huỳnh Thành Khang,226A010842,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,50,100,9.8,85,Chuyên ngành,Có,Trắc nghiệm,Có,Không,0,Không,Không,Có
+Nguyễn Minh Khang,226A010843,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,25,16,6.5,35,Chuyên ngành,Có,Trắc nghiệm,Có,Không,50,Có,Không,Có
+Phạm Đức Cường,226A010844,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 2,24,16,6.8,40,Đại cương,Có,Trắc nghiệm,Không,Không,66,Không,Có,Có
+Huỳnh Anh Sơn,226A010845,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 2,69,100,8.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Bùi Thành An,226A010846,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,31,66,5.8,30,Chuyên ngành,Không,Trắc nghiệm,Không,Không,88,Có,Không,Có
+Lê Văn An,226A010847,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 2,65,100,8.8,100,Đại cương,Có,Tự luận,Không,Không,22,Có,Không,Không
+Võ Văn Cường,226A010848,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 2,73,100,9.5,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Có,Không
+Bùi Gia Dũng,226A010849,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,85,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Có,Có,Không
+Đặng Gia Bình,226A010850,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 2,69,100,10.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Không,Có,Không
+Trần Ngọc Quân,226A010851,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,29,41,8.3,65,Chuyên ngành,Có,Tự luận,Không,Không,100,Không,Không,Có
+Phạm Thành Vinh,226A010852,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 2,12,33,1.8,55,Đại cương,Không,Tự luận,Không,Không,77,Có,Không,Không
+Hoàng Anh Bình,226A010853,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 2,90,100,6.5,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Không,Có
+Đặng Ngọc Hưng,226A010854,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 2,18,41,6.3,65,Đại cương,Không,Trắc nghiệm,Có,Không,75,Không,Không,Không
+Trần Quang Khang,226A010855,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,64,100,9.5,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Bùi Quang An,226A010856,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 2,47,0,3.8,75,Đại cương,Không,Trắc nghiệm,Có,Không,50,Không,Có,Có
+Trần Thái Hải,226A010857,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 2,28,33,8.3,30,Đại cương,Có,Trắc nghiệm,Có,Không,50,Có,Có,Có
+Đặng Thái Quân,226A010858,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 2,70,100,9.3,100,Đại cương,Không,Tự luận,Không,Không,22,Có,Không,Có
+Nguyễn Minh Hưng,226A010859,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,84,100,8.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Không,Có,Có
+Lê Ngọc Quân,226A010860,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 2,13,88,9.3,20,Đại cương,Không,Trắc nghiệm,Có,Có,55,Có,Không,Không
+Trần Thái Phúc,226A010861,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,26,0,8.0,55,Chuyên ngành,Có,Trắc nghiệm,Có,Không,44,Không,Có,Không
+Hoàng Anh Tùng,226A010862,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 2,28,83,4.5,55,Đại cương,Có,Tự luận,Không,Không,100,Có,Không,Có
+Nguyễn Văn Phúc,226A010863,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 2,86,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,25,Không,Có,Không
+Nguyễn Minh Long,226A010864,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 2,82,100,9.8,100,Đại cương,Không,Trắc nghiệm,Không,Không,8,Có,Có,Có
+Phạm Văn Cường,226A010865,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,81,100,9.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Không,Có,Không
+Đỗ Ngọc Hải,226A010866,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,40,100,5.3,50,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Đỗ Thái Khang,226A010867,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,77,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Không,Có,Có
+Huỳnh Quang Phúc,226A010868,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,0,33,2.0,55,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Không,Có
+Huỳnh Đức Hải,226A010869,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,40,100,7.5,90,Chuyên ngành,Có,Tự luận,Không,Không,16,Không,Không,Không
+Huỳnh Ngọc Cường,226A010870,Ngoại ngữ,Ngôn ngữ Anh,226A003,Triết học Mác - Lênin - Nhóm 2,78,100,8.8,100,Đại cương,Có,Tự luận,Không,Không,25,Có,Có,Không
+Phạm Văn Sơn,226A010871,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,61,100,8.3,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Hoàng Thành Nam,226A010872,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 2,70,100,9.5,100,Đại cương,Có,Tự luận,Không,Không,16,Không,Không,Có
+Võ Ngọc Vinh,226A010873,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,90,100,8.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Có,Không
+Huỳnh Anh Hưng,226A010874,Ngoại ngữ,Ngôn ngữ Anh,226A003,Vật lý đại cương - Nhóm 2,68,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,22,Có,Không,Có
+Hoàng Ngọc Bình,226A010875,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 2,5,50,7.5,25,Đại cương,Có,Trắc nghiệm,Có,Không,0,Không,Không,Có
+Hoàng Minh Hưng,226A010876,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,36,66,5.3,55,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Nguyễn Văn Tùng,226A010877,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,88,100,9.3,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Có,Không
+Huỳnh Hữu Phúc,226A010878,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,32,50,3.0,25,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Huỳnh Anh Long,226A010879,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 2,77,100,8.0,100,Đại cương,Không,Tự luận,Không,Không,0,Không,Không,Có
+Đỗ Anh Bình,226A010880,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 2,1,16,4.8,50,Đại cương,Có,Tự luận,Không,Không,50,Không,Có,Có
+Phạm Thái Dũng,226A010881,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,76,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Đặng Thái Tùng,226A010882,Ngoại ngữ,Ngôn ngữ Anh,226A003,Vật lý đại cương - Nhóm 2,21,44,7.0,40,Đại cương,Không,Trắc nghiệm,Không,Không,66,Không,Có,Có
+Hoàng Văn Vinh,226A010883,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,78,100,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Có,Có
+Hoàng Đức Long,226A010884,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,85,100,5.0,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Có,Không,Có
+Đặng Thái Nam,226A010885,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 2,64,100,8.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,25,Không,Không,Không
+Trần Gia Bình,226A010886,Công nghệ thông tin,Công nghệ phần mềm,226A001,Toán cao cấp - Nhóm 2,61,100,8.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,11,Không,Có,Không
+Võ Đức Hưng,226A010887,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,80,100,6.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Nguyễn Hữu Cường,226A010888,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 2,77,88,8.3,100,Đại cương,Có,Tự luận,Có,Có,88,Có,Không,Có
+Lê Gia Nam,226A010889,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 2,56,66,5.5,85,Đại cương,Không,Tự luận,Không,Không,75,Không,Không,Có
+Trần Hữu Cường,226A010890,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 2,75,100,9.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Nguyễn Gia Khang,226A010891,Kỹ thuật điện,Điện công nghiệp,226A005,Kỹ năng giao tiếp - Nhóm 2,76,100,9.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Không,Có,Không
+Đỗ Hữu Hưng,226A010892,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 2,42,33,10.0,90,Đại cương,Không,Trắc nghiệm,Có,Có,16,Có,Có,Có
+Đặng Thái Nam,226A010893,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 2,13,0,6.0,45,Đại cương,Có,Trắc nghiệm,Có,Có,66,Không,Không,Không
+Huỳnh Văn Phúc,226A010894,Công nghệ thông tin,Công nghệ phần mềm,226A001,Triết học Mác - Lênin - Nhóm 2,39,50,3.8,65,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Có
+Phạm Thái Hải,226A010895,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 2,83,100,6.8,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Có
+Nguyễn Quang Tùng,226A010896,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,86,100,10.0,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,0,Có,Không,Có
+Lê Gia An,226A010897,Ngoại ngữ,Ngôn ngữ Anh,226A003,Triết học Mác - Lênin - Nhóm 2,79,100,4.3,100,Đại cương,Có,Trắc nghiệm,Có,Không,66,Không,Có,Không
+Võ Văn Tùng,226A010898,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 2,87,100,8.3,100,Đại cương,Không,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Trần Anh Sơn,226A010899,Kỹ thuật điện,Điện dân dụng,226A005,Pháp luật đại cương - Nhóm 2,9,33,1.8,25,Đại cương,Không,Tự luận,Không,Không,83,Không,Không,Không
+Võ Minh Tùng,226A010900,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 2,67,100,10.0,100,Đại cương,Có,Trắc nghiệm,Có,Có,16,Có,Không,Không
+Bùi Hữu Cường,226A010901,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 2,21,44,7.8,20,Đại cương,Không,Tự luận,Không,Không,22,Có,Có,Không
+Võ Thành Hưng,226A010902,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 2,72,100,9.3,100,Đại cương,Không,Trắc nghiệm,Có,Không,0,Không,Có,Không
+Huỳnh Anh An,226A010903,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,78,100,8.3,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Có,Có,Có
+Đặng Gia Dũng,226A010904,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,83,100,8.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Trần Quang Tùng,226A010905,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,90,88,6.3,100,Chuyên ngành,Có,Trắc nghiệm,Có,Có,33,Có,Có,Có
+Phạm Quang Phúc,226A010906,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 2,12,33,7.3,50,Đại cương,Có,Trắc nghiệm,Không,Không,66,Không,Có,Không
+Nguyễn Minh An,226A010907,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 2,34,58,4.0,95,Đại cương,Có,Trắc nghiệm,Có,Không,0,Có,Không,Có
+Hoàng Quang Vinh,226A010908,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,24,50,5.3,30,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Có,Có
+Bùi Gia Bình,226A010909,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,65,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Có,Không,Không
+Trần Minh Dũng,226A010910,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 2,80,100,8.5,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Có,Có
+Phạm Gia Vinh,226A010911,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,14,25,7.8,25,Chuyên ngành,Không,Trắc nghiệm,Không,Không,66,Có,Có,Không
+Trần Đức Sơn,226A010912,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,81,75,4.3,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Có
+Phạm Gia Long,226A010913,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,12,16,3.8,20,Chuyên ngành,Có,Tự luận,Không,Không,25,Không,Có,Không
+Trần Đức Dũng,226A010914,Ngoại ngữ,Ngôn ngữ Anh,226A003,Toán cao cấp - Nhóm 2,82,100,8.8,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Có
+Đặng Thái An,226A010915,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,73,100,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,8,Không,Có,Không
+Đỗ Gia Vinh,226A010916,Ngoại ngữ,Ngôn ngữ Anh,226A003,Vật lý đại cương - Nhóm 2,28,16,1.8,45,Đại cương,Có,Trắc nghiệm,Có,Có,33,Không,Không,Có
+Bùi Văn Sơn,226A010917,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 2,82,100,9.3,100,Đại cương,Không,Tự luận,Không,Không,16,Không,Không,Có
+Hoàng Hữu Hải,226A010918,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,19,0,3.5,70,Chuyên ngành,Có,Tự luận,Không,Không,33,Không,Có,Có
+Hoàng Thái Phúc,226A010919,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 2,85,100,9.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Không,Có,Có
+Trần Gia Hải,226A010920,Công nghệ thông tin,An toàn thông tin,226A002,Kỹ năng giao tiếp - Nhóm 2,63,100,9.3,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Không
+Bùi Quang Hưng,226A010921,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,88,100,8.5,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,11,Không,Không,Có
+Đỗ Minh Dũng,226A010922,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 2,88,100,8.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,25,Có,Không,Có
+Đỗ Thành Cường,226A010923,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,83,100,9.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Có,Có
+Hoàng Minh Dũng,226A010924,Công nghệ thông tin,An toàn thông tin,226A002,Mật mã học - Nhóm 1,13,44,7.3,45,Chuyên ngành,Không,Tự luận,Không,Không,66,Không,Không,Không
+Hoàng Gia Hải,226A010925,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,61,100,6.8,100,Chuyên ngành,Không,Tự luận,Không,Không,16,Có,Có,Không
+Huỳnh Minh Khang,226A010926,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,77,100,8.5,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,0,Không,Có,Có
+Bùi Văn Dũng,226A010927,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 2,88,100,8.8,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Có
+Đỗ Đức Long,226A010928,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 2,85,100,9.0,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Không
+Võ Quang Vinh,226A010929,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 2,80,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Trần Quang Phúc,226A010930,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 2,28,25,8.5,65,Đại cương,Không,Tự luận,Không,Không,33,Không,Không,Có
+Phạm Anh Tùng,226A010931,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,13,91,2.0,20,Chuyên ngành,Không,Trắc nghiệm,Có,Không,0,Không,Không,Không
+Đỗ Đức Vinh,226A010932,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 2,34,100,7.8,45,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Huỳnh Minh Hưng,226A010933,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 2,88,33,9.0,100,Đại cương,Có,Trắc nghiệm,Có,Không,33,Có,Không,Không
+Phạm Hữu Khang,226A010934,Cơ khí,Chế tạo máy,226A005,Triết học Mác - Lênin - Nhóm 2,73,66,7.5,100,Đại cương,Không,Tự luận,Không,Không,22,Có,Có,Có
+Đặng Quang Nam,226A010935,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,90,100,10.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Không,Có
+Trần Minh Long,226A010936,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 2,86,100,9.3,100,Đại cương,Không,Trắc nghiệm,Không,Không,11,Có,Không,Có
+Hoàng Minh Hưng,226A010937,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,76,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Bùi Thái Hải,226A010938,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,73,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Có,Không,Có
+Huỳnh Đức Nam,226A010939,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 2,79,100,9.5,100,Đại cương,Có,Tự luận,Không,Không,11,Có,Không,Không
+Đỗ Minh Bình,226A010940,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,5,33,7.0,65,Chuyên ngành,Không,Tự luận,Không,Không,33,Không,Không,Có
+Đặng Văn Nam,226A010941,Công nghệ thông tin,Công nghệ phần mềm,226A001,Toán cao cấp - Nhóm 2,61,100,8.0,100,Đại cương,Có,Tự luận,Không,Không,8,Có,Có,Có
+Lê Thành Quân,226A010942,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,61,100,9.8,100,Chuyên ngành,Có,Tự luận,Không,Không,8,Có,Có,Có
+Đặng Ngọc Dũng,226A010943,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,85,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Có,Có,Có
+Hoàng Ngọc Bình,226A010944,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,76,100,8.5,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Không,Không,Không
+Lê Hữu Sơn,226A010945,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 2,14,100,1.3,20,Đại cương,Có,Tự luận,Không,Không,44,Có,Có,Có
+Huỳnh Thành Sơn,226A010946,Ngoại ngữ,Ngôn ngữ Anh,226A003,Vật lý đại cương - Nhóm 2,16,0,1.5,65,Đại cương,Có,Tự luận,Không,Không,25,Có,Có,Có
+Trần Gia Sơn,226A010947,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,7,0,4.8,60,Chuyên ngành,Có,Tự luận,Có,Không,16,Không,Không,Không
+Bùi Thành Quân,226A010948,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,32,83,9.5,95,Chuyên ngành,Không,Tự luận,Không,Không,83,Không,Không,Không
+Bùi Đức Hải,226A010949,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 2,85,75,8.8,100,Đại cương,Có,Tự luận,Có,Có,66,Có,Không,Có
+Trần Thành Quân,226A010950,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 2,88,55,3.3,100,Đại cương,Không,Trắc nghiệm,Có,Không,22,Không,Không,Có
+Phạm Minh Khang,226A010951,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 2,76,100,8.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Đặng Văn Vinh,226A010952,Công nghệ thông tin,Công nghệ phần mềm,226A001,Toán cao cấp - Nhóm 2,15,33,7.3,50,Đại cương,Không,Tự luận,Không,Không,100,Không,Có,Có
+Đặng Văn Nam,226A010953,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 2,54,25,3.5,30,Đại cương,Có,Tự luận,Không,Không,75,Có,Có,Không
+Nguyễn Hữu Hải,226A010954,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 2,73,100,8.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Đỗ Hữu Sơn,226A010955,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,70,100,9.5,100,Chuyên ngành,Có,Tự luận,Có,Có,22,Không,Không,Không
+Huỳnh Quang Dũng,226A010956,Ngoại ngữ,Ngôn ngữ Anh,226A003,Toán cao cấp - Nhóm 2,11,16,7.5,25,Đại cương,Không,Trắc nghiệm,Không,Không,50,Không,Không,Có
+Nguyễn Quang Dũng,226A010957,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 2,6,33,8.8,55,Đại cương,Không,Tự luận,Không,Không,100,Không,Có,Có
+Hoàng Gia Phúc,226A010958,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,77,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Có,Không,Có
+Phạm Ngọc Dũng,226A010959,Công nghệ thông tin,Công nghệ phần mềm,226A001,Pháp luật đại cương - Nhóm 2,72,0,7.5,100,Đại cương,Không,Trắc nghiệm,Có,Có,44,Có,Không,Có
+Phạm Quang An,226A010960,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,80,100,8.3,100,Chuyên ngành,Không,Tự luận,Có,Không,0,Có,Có,Không
+Nguyễn Đức Long,226A010961,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,71,100,7.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Huỳnh Quang Phúc,226A010962,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 3,52,22,9.0,50,Đại cương,Không,Tự luận,Không,Không,44,Có,Không,Không
+Lê Anh An,226A010963,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 2,13,44,3.3,35,Đại cương,Có,Tự luận,Có,Không,11,Không,Không,Không
+Phạm Văn An,226A010964,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,86,100,7.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Đỗ Đức Nam,226A010965,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,80,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Không,Có,Không
+Phạm Minh Tùng,226A010966,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,26,33,7.0,65,Chuyên ngành,Không,Trắc nghiệm,Không,Không,58,Không,Không,Có
+Lê Gia Long,226A010967,Ngoại ngữ,Ngôn ngữ Anh,226A003,Toán cao cấp - Nhóm 2,93,25,1.5,100,Đại cương,Không,Trắc nghiệm,Không,Không,75,Có,Không,Có
+Võ Ngọc Nam,226A010968,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,76,100,9.8,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,22,Có,Không,Không
+Hoàng Minh Nam,226A010969,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 2,89,100,9.0,100,Đại cương,Có,Tự luận,Không,Không,8,Không,Có,Có
+Hoàng Thành Khang,226A010970,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,28,55,2.3,35,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Có,Không,Có
+Phạm Hữu Bình,226A010971,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 2,78,100,9.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Đặng Gia Hưng,226A010972,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,81,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,25,Có,Có,Có
+Lê Gia An,226A010973,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,73,100,5.0,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Có
+Phạm Ngọc Long,226A010974,Kỹ thuật điện,Điện dân dụng,226A005,Pháp luật đại cương - Nhóm 3,2,22,8.5,25,Đại cương,Không,Tự luận,Không,Không,77,Không,Không,Có
+Nguyễn Minh Sơn,226A010975,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 2,75,100,9.0,100,Đại cương,Có,Tự luận,Không,Không,16,Không,Có,Không
+Đặng Ngọc Khang,226A010976,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 3,71,0,8.3,100,Đại cương,Không,Trắc nghiệm,Không,Không,83,Có,Có,Có
+Bùi Hữu Long,226A010977,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 3,3,83,8.0,60,Đại cương,Không,Tự luận,Có,Không,100,Có,Không,Không
+Phạm Hữu Nam,226A010978,Ngoại ngữ,Ngôn ngữ Anh,226A003,Triết học Mác - Lênin - Nhóm 2,30,33,7.5,50,Đại cương,Có,Trắc nghiệm,Không,Không,55,Có,Có,Không
+Lê Văn Vinh,226A010979,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 3,37,100,8.3,80,Đại cương,Có,Tự luận,Không,Không,16,Có,Không,Không
+Nguyễn Ngọc Sơn,226A010980,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,72,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Không,Có,Có
+Trần Gia Phúc,226A010981,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,23,33,1.0,35,Chuyên ngành,Không,Trắc nghiệm,Không,Không,100,Không,Có,Không
+Đỗ Minh Dũng,226A010982,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,82,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Đỗ Hữu Sơn,226A010983,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 3,61,16,2.3,100,Đại cương,Có,Tự luận,Có,Không,100,Không,Không,Có
+Đặng Thái Tùng,226A010984,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 3,8,33,6.3,65,Đại cương,Không,Tự luận,Không,Không,55,Không,Không,Không
+Đỗ Quang Cường,226A010985,Công nghệ thông tin,Công nghệ phần mềm,226A001,Toán cao cấp - Nhóm 2,37,66,5.8,80,Đại cương,Có,Tự luận,Không,Không,0,Có,Không,Không
+Đặng Văn Cường,226A010986,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,68,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Bùi Minh Khang,226A010987,Kỹ thuật điện,Điện dân dụng,226A005,Triết học Mác - Lênin - Nhóm 2,82,77,6.0,100,Đại cương,Có,Tự luận,Không,Không,33,Có,Không,Không
+Lê Ngọc Tùng,226A010988,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,84,100,8.3,100,Chuyên ngành,Không,Tự luận,Không,Không,8,Có,Không,Có
+Bùi Văn Hải,226A010989,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,82,100,9.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Không,Có,Có
+Hoàng Ngọc Hưng,226A010990,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,31,77,2.5,20,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Có,Không
+Phạm Anh An,226A010991,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 2,84,100,9.5,100,Đại cương,Có,Tự luận,Có,Không,0,Có,Có,Không
+Đỗ Văn Dũng,226A010992,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,64,100,7.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Không,Có,Có
+Hoàng Quang Cường,226A010993,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 2,86,55,6.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Phạm Ngọc Tùng,226A010994,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,7,11,8.0,50,Chuyên ngành,Không,Tự luận,Không,Không,88,Có,Không,Không
+Trần Văn Hưng,226A010995,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 3,78,100,9.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,8,Có,Có,Không
+Bùi Gia Long,226A010996,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,73,100,5.3,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Có,Không,Có
+Nguyễn Quang Bình,226A010997,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 3,67,100,9.5,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Không,Có
+Nguyễn Văn Vinh,226A010998,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,20,25,3.3,35,Chuyên ngành,Không,Trắc nghiệm,Không,Không,33,Không,Không,Có
+Phạm Gia Vinh,226A010999,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,85,100,9.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Bùi Ngọc Dũng,226A011000,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,69,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Huỳnh Đức Sơn,226A011001,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 3,65,100,8.0,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Có
+Lê Hữu Sơn,226A011002,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 2,88,100,7.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,8,Có,Không,Có
+Lê Văn Hưng,226A011003,Cơ khí,Tự động hoá,226A005,Kỹ năng giao tiếp - Nhóm 3,25,0,4.3,30,Đại cương,Có,Trắc nghiệm,Có,Có,11,Có,Không,Không
+Đỗ Quang An,226A011004,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,84,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Không,Không
+Bùi Ngọc Nam,226A011005,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 2,29,75,4.3,40,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Có
+Lê Quang Quân,226A011006,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,69,100,9.0,100,Chuyên ngành,Không,Tự luận,Có,Có,0,Có,Không,Có
+Lê Anh Bình,226A011007,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,82,100,8.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Không,Không
+Võ Ngọc Hưng,226A011008,Ngoại ngữ,Ngôn ngữ Trung,226A004,Pháp luật đại cương - Nhóm 3,84,100,9.3,100,Đại cương,Có,Tự luận,Không,Không,11,Có,Không,Có
+Trần Minh Sơn,226A011009,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,90,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Có,Có,Có
+Huỳnh Anh Nam,226A011010,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 2,16,11,2.3,40,Đại cương,Không,Tự luận,Không,Không,55,Không,Không,Có
+Nguyễn Thành Khang,226A011011,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,100,88,5.8,100,Chuyên ngành,Không,Tự luận,Có,Có,11,Có,Không,Không
+Huỳnh Hữu Dũng,226A011012,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,37,100,7.3,75,Chuyên ngành,Có,Tự luận,Có,Có,66,Có,Có,Có
+Huỳnh Anh Khang,226A011013,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 3,40,100,9.8,65,Đại cương,Có,Tự luận,Có,Không,0,Có,Có,Có
+Đặng Gia Hải,226A011014,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 3,85,100,8.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Huỳnh Ngọc Bình,226A011015,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 3,35,66,9.3,60,Đại cương,Có,Tự luận,Có,Có,100,Không,Có,Không
+Đặng Gia An,226A011016,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 2,25,16,8.5,25,Đại cương,Không,Tự luận,Không,Không,33,Có,Không,Không
+Đặng Hữu Dũng,226A011017,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 2,64,100,9.0,100,Đại cương,Không,Trắc nghiệm,Không,Không,11,Không,Có,Có
+Bùi Đức Tùng,226A011018,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,7,0,7.3,20,Chuyên ngành,Không,Tự luận,Không,Không,50,Không,Có,Không
+Hoàng Ngọc Quân,226A011019,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 2,26,8,7.8,30,Đại cương,Không,Tự luận,Không,Không,33,Có,Không,Có
+Hoàng Thái Phúc,226A011020,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 3,78,66,7.3,100,Đại cương,Không,Tự luận,Không,Không,83,Có,Có,Có
+Trần Đức Quân,226A011021,Ngoại ngữ,Ngôn ngữ Trung,226A004,Hán tự cơ bản - Nhóm 1,65,33,6.5,100,Chuyên ngành,Có,Tự luận,Có,Có,33,Có,Không,Có
+Võ Anh An,226A011022,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,71,100,8.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Lê Ngọc Hưng,226A011023,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,84,16,5.0,100,Chuyên ngành,Có,Trắc nghiệm,Có,Không,100,Không,Có,Có
+Nguyễn Văn Hải,226A011024,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 2,64,100,9.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Không,Có,Có
+Nguyễn Ngọc Hải,226A011025,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 2,11,44,7.0,35,Đại cương,Không,Trắc nghiệm,Không,Không,88,Không,Không,Không
+Phạm Hữu Quân,226A011026,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 3,75,100,8.5,100,Đại cương,Có,Tự luận,Không,Không,16,Có,Có,Có
+Bùi Ngọc Phúc,226A011027,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,25,33,5.5,65,Chuyên ngành,Không,Tự luận,Có,Không,25,Không,Có,Có
+Nguyễn Thành Hưng,226A011028,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,80,100,9.8,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Không
+Lê Hữu Vinh,226A011029,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,100,77,6.3,100,Chuyên ngành,Không,Tự luận,Có,Không,77,Không,Không,Không
+Bùi Đức Long,226A011030,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 3,86,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Bùi Gia Vinh,226A011031,Kỹ thuật điện,Điện dân dụng,226A005,Triết học Mác - Lênin - Nhóm 2,9,22,9.3,50,Đại cương,Có,Trắc nghiệm,Có,Có,33,Có,Không,Có
+Bùi Đức Vinh,226A011032,Kỹ thuật điện,Điện dân dụng,226A005,Pháp luật đại cương - Nhóm 3,74,100,9.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Nguyễn Quang Sơn,226A011033,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,80,100,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Võ Thành Hưng,226A011034,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,64,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Trần Thái Tùng,226A011035,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 2,81,100,9.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Nguyễn Gia Tùng,226A011036,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 3,7,0,7.3,25,Đại cương,Không,Tự luận,Không,Không,55,Có,Không,Có
+Đỗ Thành Quân,226A011037,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 3,22,11,7.0,35,Đại cương,Có,Trắc nghiệm,Không,Không,44,Có,Không,Có
+Trần Anh Phúc,226A011038,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,54,11,1.0,25,Chuyên ngành,Có,Trắc nghiệm,Có,Có,0,Có,Không,Có
+Lê Thành An,226A011039,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 3,29,33,1.3,45,Đại cương,Có,Trắc nghiệm,Không,Không,100,Có,Không,Có
+Trần Thái Khang,226A011040,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,62,100,8.8,100,Chuyên ngành,Không,Tự luận,Không,Không,8,Có,Không,Có
+Bùi Anh Vinh,226A011041,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,10,0,1.3,50,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Phạm Thành Phúc,226A011042,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 2,46,100,9.3,45,Đại cương,Không,Tự luận,Có,Có,33,Không,Không,Có
+Huỳnh Ngọc Hưng,226A011043,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 2,7,33,6.0,50,Đại cương,Không,Tự luận,Không,Không,33,Không,Có,Không
+Trần Văn Nam,226A011044,Kỹ thuật điện,Điện công nghiệp,226A005,Kỹ năng giao tiếp - Nhóm 3,11,33,4.3,65,Đại cương,Không,Trắc nghiệm,Không,Không,100,Không,Không,Không
+Lê Văn Long,226A011045,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,5,8,7.0,60,Chuyên ngành,Có,Trắc nghiệm,Có,Không,91,Không,Có,Có
+Võ Đức Cường,226A011046,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,78,100,9.5,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Phạm Thái Cường,226A011047,Cơ khí,Tự động hoá,226A005,Triết học Mác - Lênin - Nhóm 3,5,11,6.0,40,Đại cương,Không,Trắc nghiệm,Không,Không,33,Có,Có,Không
+Đỗ Quang Hưng,226A011048,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,93,22,6.8,100,Chuyên ngành,Có,Tự luận,Không,Không,44,Không,Có,Không
+Hoàng Quang Hải,226A011049,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 3,86,100,8.5,100,Đại cương,Không,Tự luận,Không,Không,25,Có,Có,Không
+Bùi Đức Hưng,226A011050,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 3,81,100,9.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Trần Anh Tùng,226A011051,Ngoại ngữ,Ngôn ngữ Trung,226A004,Toán cao cấp - Nhóm 2,3,55,9.0,35,Đại cương,Có,Tự luận,Có,Có,100,Có,Không,Có
+Đỗ Đức Bình,226A011052,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,46,100,0.0,65,Chuyên ngành,Không,Tự luận,Có,Không,11,Có,Có,Có
+Đỗ Đức Dũng,226A011053,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,72,100,9.3,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Có,Không,Không
+Nguyễn Gia Sơn,226A011054,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,2,33,8.8,40,Chuyên ngành,Có,Trắc nghiệm,Không,Không,44,Không,Có,Có
+Hoàng Đức Sơn,226A011055,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,72,100,9.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Không,Có
+Phạm Quang Phúc,226A011056,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 2,7,0,4.5,65,Đại cương,Không,Tự luận,Không,Không,83,Có,Có,Có
+Võ Hữu Khang,226A011057,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 3,77,100,9.8,100,Đại cương,Không,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Đỗ Hữu Hưng,226A011058,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,20,75,2.0,20,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Lê Anh Nam,226A011059,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,90,100,8.3,100,Chuyên ngành,Có,Tự luận,Không,Không,8,Không,Không,Không
+Đỗ Hữu Sơn,226A011060,Kỹ thuật điện,Điện dân dụng,226A005,Vật lý đại cương - Nhóm 3,31,33,1.3,85,Đại cương,Không,Tự luận,Có,Không,55,Không,Có,Không
+Đỗ Anh Sơn,226A011061,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 3,20,33,6.3,45,Đại cương,Không,Trắc nghiệm,Không,Không,100,Có,Không,Có
+Lê Hữu Khang,226A011062,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,85,8,4.3,100,Chuyên ngành,Không,Tự luận,Không,Không,41,Không,Có,Không
+Hoàng Hữu Phúc,226A011063,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,75,100,9.8,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Có,Có
+Nguyễn Ngọc Khang,226A011064,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,81,100,8.0,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Có,Không,Có
+Lê Anh Hải,226A011065,Kỹ thuật điện,Điện dân dụng,226A005,Triết học Mác - Lênin - Nhóm 3,63,66,5.8,100,Đại cương,Không,Trắc nghiệm,Không,Không,11,Có,Không,Có
+Đặng Anh Bình,226A011066,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 3,90,100,9.3,100,Đại cương,Có,Tự luận,Không,Không,11,Có,Có,Có
+Trần Thành An,226A011067,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 3,35,100,6.0,45,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Lê Ngọc An,226A011068,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 2,47,44,7.8,45,Đại cương,Có,Tự luận,Không,Không,100,Có,Có,Không
+Huỳnh Gia Nam,226A011069,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,54,83,3.8,60,Chuyên ngành,Không,Tự luận,Có,Không,66,Có,Không,Có
+Lê Thái Vinh,226A011070,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 3,35,77,2.5,50,Đại cương,Có,Trắc nghiệm,Không,Không,11,Không,Không,Không
+Đặng Hữu Tùng,226A011071,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,82,100,8.8,100,Chuyên ngành,Có,Tự luận,Có,Có,16,Có,Có,Không
+Bùi Hữu Bình,226A011072,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,4,22,1.0,20,Chuyên ngành,Có,Trắc nghiệm,Không,Không,55,Có,Không,Có
+Lê Thái Khang,226A011073,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,66,100,9.3,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Không
+Lê Ngọc Hải,226A011074,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,2,88,7.3,25,Chuyên ngành,Không,Tự luận,Không,Không,11,Có,Có,Có
+Huỳnh Minh Phúc,226A011075,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,68,50,5.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Không,Không,Không
+Bùi Anh An,226A011076,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 2,5,66,6.5,50,Đại cương,Có,Tự luận,Có,Có,0,Không,Có,Có
+Đặng Văn Sơn,226A011077,Ngoại ngữ,Ngôn ngữ Anh,226A003,Triết học Mác - Lênin - Nhóm 3,49,100,7.8,70,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Không,Không
+Nguyễn Thành Cường,226A011078,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 3,6,11,6.5,45,Đại cương,Không,Trắc nghiệm,Không,Không,88,Có,Có,Có
+Đặng Thành Sơn,226A011079,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,79,100,8.0,100,Chuyên ngành,Có,Tự luận,Không,Không,8,Có,Có,Không
+Hoàng Văn Hưng,226A011080,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,73,100,9.3,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,11,Không,Không,Có
+Nguyễn Gia Bình,226A011081,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,85,100,9.5,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Có
+Huỳnh Gia An,226A011082,Công nghệ thông tin,Công nghệ phần mềm,226A001,Toán cao cấp - Nhóm 2,30,75,2.8,40,Đại cương,Có,Tự luận,Có,Không,16,Có,Có,Không
+Võ Đức Bình,226A011083,Công nghệ thông tin,An toàn thông tin,226A002,Kỹ năng giao tiếp - Nhóm 3,3,0,6.3,40,Đại cương,Có,Tự luận,Không,Không,33,Không,Không,Có
+Đặng Thái Bình,226A011084,Công nghệ thông tin,Công nghệ phần mềm,226A001,Toán cao cấp - Nhóm 3,41,8,4.5,90,Đại cương,Có,Tự luận,Có,Không,83,Có,Không,Có
+Huỳnh Đức Hưng,226A011085,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,69,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Không,Có,Không
+Phạm Gia Nam,226A011086,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,82,75,6.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,66,Có,Có,Không
+Nguyễn Thái Dũng,226A011087,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 3,4,83,8.5,20,Đại cương,Không,Trắc nghiệm,Có,Không,83,Có,Có,Có
+Đỗ Quang Dũng,226A011088,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,75,100,6.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Nguyễn Anh Cường,226A011089,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,76,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,11,Không,Không,Không
+Lê Hữu An,226A011090,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 3,29,0,3.3,25,Đại cương,Không,Tự luận,Không,Không,77,Không,Có,Không
+Huỳnh Ngọc Dũng,226A011091,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,61,100,10.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,22,Có,Không,Không
+Huỳnh Quang Cường,226A011092,Công nghệ thông tin,An toàn thông tin,226A002,Triết học Mác - Lênin - Nhóm 3,82,100,8.8,100,Đại cương,Có,Tự luận,Không,Không,11,Có,Không,Không
+Trần Hữu Hải,226A011093,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,85,100,9.8,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Không,Có,Không
+Lê Anh Dũng,226A011094,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 3,22,11,7.3,70,Đại cương,Có,Tự luận,Không,Không,88,Không,Có,Không
+Đặng Đức Khang,226A011095,Cơ khí,Chế tạo máy,226A005,Chi tiết máy - Nhóm 1,88,100,9.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Hoàng Anh Quân,226A011096,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,11,0,2.5,35,Chuyên ngành,Không,Tự luận,Không,Không,66,Có,Không,Không
+Phạm Thành Nam,226A011097,Kỹ thuật điện,Điện công nghiệp,226A005,Triết học Mác - Lênin - Nhóm 3,80,100,0.0,100,Đại cương,Không,Tự luận,Có,Không,16,Có,Không,Không
+Lê Ngọc Quân,226A011098,Cơ khí,Chế tạo máy,226A005,Pháp luật đại cương - Nhóm 3,26,11,2.3,60,Đại cương,Không,Tự luận,Không,Không,55,Không,Không,Có
+Huỳnh Hữu Sơn,226A011099,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 3,70,100,8.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,22,Không,Có,Có
+Trần Thái Long,226A011100,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 3,79,100,10.0,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Không,Có,Có
+Phạm Ngọc Hưng,226A011101,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,84,100,10.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Có,Không,Có
+Đỗ Thành Long,226A011102,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,78,100,9.0,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Có,Không
+Huỳnh Quang Long,226A011103,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,87,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Không
+Huỳnh Gia Phúc,226A011104,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 3,90,100,8.5,100,Đại cương,Có,Trắc nghiệm,Không,Không,25,Có,Có,Có
+Đỗ Minh Sơn,226A011105,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,71,100,10.0,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Không,Có
+Võ Quang Khang,226A011106,Cơ khí,Chế tạo máy,226A005,Toán cao cấp - Nhóm 3,78,33,1.5,100,Đại cương,Không,Trắc nghiệm,Không,Không,66,Có,Có,Không
+Lê Ngọc Phúc,226A011107,Cơ khí,Chế tạo máy,226A005,Kỹ năng giao tiếp - Nhóm 3,32,66,4.0,25,Đại cương,Không,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Võ Hữu Phúc,226A011108,Cơ khí,Chế tạo máy,226A005,Triết học Mác - Lênin - Nhóm 3,85,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Có,Có
+Võ Quang Hải,226A011109,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,66,0,9.3,100,Chuyên ngành,Có,Tự luận,Không,Không,25,Có,Không,Không
+Đặng Hữu Cường,226A011110,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,22,50,5.5,55,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Có
+Trần Văn Nam,226A011111,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,61,50,4.5,100,Chuyên ngành,Có,Tự luận,Có,Có,8,Có,Có,Có
+Trần Thành Hưng,226A011112,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,65,77,9.0,100,Chuyên ngành,Có,Tự luận,Có,Có,0,Có,Có,Có
+Võ Hữu Long,226A011113,Công nghệ thông tin,An toàn thông tin,226A002,Pháp luật đại cương - Nhóm 3,67,100,9.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,11,Có,Có,Có
+Trần Văn Tùng,226A011114,Ngoại ngữ,Ngôn ngữ Anh,226A003,Kỹ năng giao tiếp - Nhóm 3,67,100,5.8,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Không
+Lê Anh Quân,226A011115,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,43,100,7.0,20,Chuyên ngành,Có,Tự luận,Không,Không,25,Không,Có,Có
+Lê Thành Nam,226A011116,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 3,61,100,8.3,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Có,Có
+Võ Thái Vinh,226A011117,Ngoại ngữ,Ngôn ngữ Anh,226A003,Pháp luật đại cương - Nhóm 3,66,100,9.3,100,Đại cương,Có,Tự luận,Không,Không,0,Có,Không,Có
+Bùi Đức Quân,226A011118,Ngoại ngữ,Ngôn ngữ Trung,226A004,Triết học Mác - Lênin - Nhóm 3,62,100,8.8,100,Đại cương,Không,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Trần Hữu Cường,226A011119,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 3,22,33,7.8,50,Đại cương,Không,Trắc nghiệm,Không,Không,33,Không,Có,Có
+Đặng Quang Quân,226A011120,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,40,77,7.5,30,Chuyên ngành,Có,Trắc nghiệm,Không,Không,44,Không,Có,Có
+Lê Thành Tùng,226A011121,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,59,100,5.5,50,Chuyên ngành,Không,Trắc nghiệm,Không,Không,11,Có,Không,Không
+Trần Minh Tùng,226A011122,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 3,72,100,9.8,100,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Không
+Bùi Gia An,226A011123,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 3,53,66,4.0,50,Đại cương,Không,Tự luận,Có,Không,0,Có,Có,Có
+Hoàng Văn Sơn,226A011124,Công nghệ thông tin,An toàn thông tin,226A002,Toán cao cấp - Nhóm 3,30,83,10.0,20,Đại cương,Không,Tự luận,Có,Có,100,Có,Có,Không
+Đỗ Văn Sơn,226A011125,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 3,49,100,6.3,95,Đại cương,Không,Tự luận,Có,Có,25,Có,Có,Không
+Huỳnh Quang An,226A011126,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,60,100,5.5,30,Chuyên ngành,Có,Trắc nghiệm,Không,Không,11,Có,Không,Không
+Hoàng Ngọc Quân,226A011127,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,68,100,10.0,100,Chuyên ngành,Không,Tự luận,Không,Không,22,Có,Có,Không
+Đặng Quang Cường,226A011128,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,65,0,4.8,100,Chuyên ngành,Có,Trắc nghiệm,Có,Có,8,Không,Có,Có
+Lê Đức Nam,226A011129,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,93,33,8.0,100,Chuyên ngành,Không,Tự luận,Có,Không,91,Có,Không,Không
+Huỳnh Quang Hải,226A011130,Kỹ thuật điện,Điện dân dụng,226A005,Toán cao cấp - Nhóm 3,22,0,6.8,70,Đại cương,Không,Tự luận,Không,Không,88,Có,Có,Không
+Hoàng Hữu Nam,226A011131,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,90,100,8.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Không
+Bùi Thái Sơn,226A011132,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,49,100,9.0,50,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Lê Văn Hải,226A011133,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,72,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Không,Có,Không
+Hoàng Văn Sơn,226A011134,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,11,11,5.0,40,Chuyên ngành,Có,Trắc nghiệm,Không,Không,55,Không,Không,Không
+Hoàng Minh Tùng,226A011135,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,73,100,9.3,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Không,Có,Không
+Trần Gia Cường,226A011136,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,36,58,5.0,20,Chuyên ngành,Không,Tự luận,Có,Không,8,Có,Không,Không
+Phạm Đức Sơn,226A011137,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 3,59,100,9.5,25,Đại cương,Có,Tự luận,Không,Không,25,Có,Không,Không
+Đặng Minh Nam,226A011138,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,86,100,9.5,100,Chuyên ngành,Không,Trắc nghiệm,Có,Không,0,Có,Không,Không
+Huỳnh Anh Long,226A011139,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 3,0,16,6.3,70,Đại cương,Không,Trắc nghiệm,Không,Không,50,Có,Không,Không
+Đỗ Quang Dũng,226A011140,Ngoại ngữ,Ngôn ngữ Trung,226A004,Văn hóa Trung Quốc - Nhóm 1,86,66,1.0,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Có,Có,Có
+Bùi Minh Phúc,226A011141,Ngoại ngữ,Ngôn ngữ Trung,226A004,Nghe nói tiếng Trung - Nhóm 1,32,100,9.8,40,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Võ Thái Nam,226A011142,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,38,77,2.3,25,Chuyên ngành,Không,Trắc nghiệm,Có,Không,55,Có,Không,Không
+Đỗ Gia Tùng,226A011143,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,45,100,5.5,55,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Phạm Ngọc Quân,226A011144,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,63,100,5.5,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Có
+Bùi Ngọc An,226A011145,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,58,88,4.3,35,Chuyên ngành,Có,Tự luận,Có,Có,100,Không,Có,Không
+Đỗ Quang Tùng,226A011146,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,89,66,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Không,Có,Không
+Trần Hữu Quân,226A011147,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 3,1,41,8.3,65,Đại cương,Không,Trắc nghiệm,Không,Không,25,Không,Không,Có
+Đặng Hữu Sơn,226A011148,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,66,100,8.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,11,Không,Không,Không
+Trần Văn Phúc,226A011149,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,67,100,8.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Võ Đức Hưng,226A011150,Kỹ thuật điện,Điện dân dụng,226A005,Triết học Mác - Lênin - Nhóm 3,57,33,7.3,80,Đại cương,Có,Trắc nghiệm,Không,Không,50,Không,Không,Không
+Đỗ Thành Phúc,226A011151,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,26,16,8.5,35,Chuyên ngành,Không,Tự luận,Không,Không,50,Không,Không,Có
+Phạm Hữu Nam,226A011152,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,79,100,9.5,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Không,Không
+Đỗ Văn Khang,226A011153,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,42,100,6.8,60,Chuyên ngành,Có,Tự luận,Không,Không,0,Không,Có,Không
+Nguyễn Hữu Cường,226A011154,Cơ khí,Tự động hoá,226A005,Lập trình PLC - Nhóm 1,61,100,9.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Đặng Văn Dũng,226A011155,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,13,0,3.5,70,Chuyên ngành,Có,Tự luận,Không,Không,83,Có,Có,Có
+Hoàng Thái Sơn,226A011156,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,80,100,9.3,100,Chuyên ngành,Có,Tự luận,Có,Có,25,Có,Không,Có
+Võ Ngọc Tùng,226A011157,Kỹ thuật điện,Điện dân dụng,226A005,Vật liệu điện - Nhóm 1,85,100,10.0,100,Chuyên ngành,Không,Tự luận,Không,Không,16,Có,Có,Có
+Trần Gia An,226A011158,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,68,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Lê Anh Bình,226A011159,Công nghệ thông tin,Công nghệ phần mềm,226A001,Lập trình Web - Nhóm 1,86,100,8.0,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Không,Không,Có
+Trần Thành Phúc,226A011160,Kỹ thuật điện,Điện dân dụng,226A005,Pháp luật đại cương - Nhóm 3,3,33,2.3,30,Đại cương,Có,Trắc nghiệm,Không,Không,100,Không,Có,Không
+Lê Anh Sơn,226A011161,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,65,44,7.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,88,Có,Không,Không
+Phạm Thành An,226A011162,Ngoại ngữ,Ngôn ngữ Anh,226A003,Biên dịch - Nhóm 1,73,100,8.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Có,Có,Có
+Võ Văn Bình,226A011163,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 3,4,66,2.0,40,Đại cương,Có,Trắc nghiệm,Có,Không,100,Có,Không,Không
+Lê Minh Hải,226A011164,Ngoại ngữ,Ngôn ngữ Trung,226A004,Vật lý đại cương - Nhóm 3,67,77,5.0,100,Đại cương,Có,Tự luận,Không,Không,22,Có,Không,Có
+Trần Gia Hưng,226A011165,Công nghệ thông tin,An toàn thông tin,226A002,Vật lý đại cương - Nhóm 3,90,66,3.5,100,Đại cương,Có,Trắc nghiệm,Có,Có,8,Có,Không,Có
+Hoàng Hữu Dũng,226A011166,Kỹ thuật điện,Điện công nghiệp,226A005,Vật lý đại cương - Nhóm 3,30,0,3.8,85,Đại cương,Có,Trắc nghiệm,Có,Có,0,Không,Có,Có
+Nguyễn Anh Vinh,226A011167,Cơ khí,Tự động hoá,226A005,Hệ thống nhúng - Nhóm 1,79,100,9.5,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Có
+Đặng Văn Phúc,226A011168,Ngoại ngữ,Ngôn ngữ Anh,226A003,Vật lý đại cương - Nhóm 3,25,100,0.0,25,Đại cương,Không,Trắc nghiệm,Có,Không,16,Có,Có,Có
+Phạm Văn Quân,226A011169,Cơ khí,Tự động hoá,226A005,Pháp luật đại cương - Nhóm 3,39,75,4.5,50,Đại cương,Có,Trắc nghiệm,Không,Không,0,Có,Có,Có
+Lê Minh An,226A011170,Công nghệ thông tin,Công nghệ phần mềm,226A001,Vật lý đại cương - Nhóm 3,79,100,9.8,100,Đại cương,Có,Tự luận,Không,Không,0,Không,Không,Có
+Võ Thái Khang,226A011171,Công nghệ thông tin,An toàn thông tin,226A002,An ninh mạng - Nhóm 1,65,77,6.8,100,Chuyên ngành,Không,Tự luận,Không,Không,66,Có,Không,Có
+Huỳnh Đức Phúc,226A011172,Kỹ thuật điện,Điện dân dụng,226A005,An toàn điện - Nhóm 1,75,100,8.5,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Không,Không
+Bùi Văn Quân,226A011173,Ngoại ngữ,Ngôn ngữ Trung,226A004,Toán cao cấp - Nhóm 3,88,100,9.3,100,Đại cương,Có,Trắc nghiệm,Không,Không,16,Có,Không,Có
+Hoàng Anh Dũng,226A011174,Cơ khí,Tự động hoá,226A005,Điều khiển tự động - Nhóm 1,69,100,8.5,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,25,Có,Không,Không
+Đỗ Văn Bình,226A011175,Cơ khí,Chế tạo máy,226A005,Cơ học lý thuyết - Nhóm 1,66,100,9.3,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Có,Không
+Phạm Đức Phúc,226A011176,Cơ khí,Chế tạo máy,226A005,Vật lý đại cương - Nhóm 3,64,33,7.0,100,Đại cương,Không,Trắc nghiệm,Không,Không,44,Không,Có,Có
+Đỗ Quang Bình,226A011177,Kỹ thuật điện,Điện công nghiệp,226A005,Pháp luật đại cương - Nhóm 3,85,100,10.0,100,Đại cương,Không,Tự luận,Không,Không,22,Có,Có,Có
+Phạm Gia Cường,226A011178,Công nghệ thông tin,Công nghệ phần mềm,226A001,Cấu trúc dữ liệu - Nhóm 1,76,100,9.3,100,Chuyên ngành,Có,Tự luận,Có,Có,16,Có,Không,Không
+Nguyễn Ngọc Vinh,226A011179,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,74,100,8.8,100,Chuyên ngành,Có,Tự luận,Không,Không,16,Có,Có,Có
+Trần Minh Tùng,226A011180,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 3,37,66,8.8,60,Đại cương,Không,Tự luận,Không,Không,22,Không,Không,Có
+Nguyễn Đức Hải,226A011181,Công nghệ thông tin,An toàn thông tin,226A002,Vật lý đại cương - Nhóm 3,77,100,7.8,100,Đại cương,Có,Trắc nghiệm,Có,Không,50,Có,Có,Có
+Trần Ngọc Tùng,226A011182,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,68,100,9.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,25,Có,Có,Không
+Hoàng Anh Vinh,226A011183,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,74,100,9.0,100,Chuyên ngành,Không,Tự luận,Không,Không,0,Có,Có,Có
+Bùi Thành Bình,226A011184,Kỹ thuật điện,Điện dân dụng,226A005,Kỹ năng giao tiếp - Nhóm 3,74,100,10.0,100,Đại cương,Không,Trắc nghiệm,Không,Không,22,Có,Không,Không
+Đỗ Văn Vinh,226A011185,Cơ khí,Tự động hoá,226A005,Toán cao cấp - Nhóm 3,34,58,4.0,75,Đại cương,Có,Tự luận,Không,Không,0,Không,Có,Không
+Võ Thành Cường,226A011186,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,86,100,9.0,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,8,Không,Có,Có
+Lê Thái Tùng,226A011187,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kỹ năng giao tiếp - Nhóm 3,41,100,6.3,20,Đại cương,Có,Tự luận,Có,Không,11,Có,Không,Có
+Lê Văn Vinh,226A011188,Kỹ thuật điện,Điện công nghiệp,226A005,Truyền động điện - Nhóm 1,65,100,9.3,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Có,Không,Có
+Lê Thái Dũng,226A011189,Ngoại ngữ,Ngôn ngữ Anh,226A003,Ngữ âm học - Nhóm 1,61,100,9.0,100,Chuyên ngành,Không,Trắc nghiệm,Không,Không,0,Không,Có,Có
+Võ Thành Sơn,226A011190,Ngoại ngữ,Ngôn ngữ Anh,226A003,Tiếng Anh giao tiếp - Nhóm 1,100,25,9.5,100,Chuyên ngành,Không,Trắc nghiệm,Có,Có,0,Có,Có,Có
+Huỳnh Văn Bình,226A011191,Kỹ thuật điện,Điện công nghiệp,226A005,Cung cấp điện - Nhóm 1,66,100,9.8,100,Chuyên ngành,Có,Tự luận,Không,Không,0,Có,Có,Không
+Huỳnh Ngọc Hưng,226A011192,Ngoại ngữ,Ngôn ngữ Trung,226A004,Kỹ năng giao tiếp - Nhóm 3,11,16,7.0,40,Đại cương,Không,Trắc nghiệm,Không,Không,83,Có,Có,Không
+Phạm Thái Cường,226A011193,Công nghệ thông tin,An toàn thông tin,226A002,Pháp lý ATTT - Nhóm 1,55,100,3.0,40,Chuyên ngành,Có,Trắc nghiệm,Có,Có,77,Không,Có,Có
+Hoàng Thành Khang,226A011194,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,34,66,3.3,95,Chuyên ngành,Có,Trắc nghiệm,Không,Không,16,Không,Có,Có
+Phạm Đức Sơn,226A011195,Cơ khí,Chế tạo máy,226A005,Công nghệ CNC - Nhóm 1,7,0,7.0,45,Chuyên ngành,Có,Tự luận,Có,Có,83,Có,Có,Không
+Nguyễn Hữu Cường,226A011196,Kỹ thuật điện,Điện dân dụng,226A005,Mạch điện cơ bản - Nhóm 1,81,100,8.8,100,Chuyên ngành,Có,Trắc nghiệm,Không,Không,0,Không,Có,Có
+Trần Văn Dũng,226A011197,Công nghệ thông tin,Công nghệ phần mềm,226A001,Kiến trúc phần mềm - Nhóm 1,89,100,9.3,100,Chuyên ngành,Có,Tự luận,Không,Không,22,Có,Có,Không
+Lê Thái Nam,226A011198,Cơ khí,Tự động hoá,226A005,Vật lý đại cương - Nhóm 3,20,16,1.5,55,Đại cương,Có,Trắc nghiệm,Không,Không,100,Có,Không,Có
+Phạm Thành Khang,226A011199,Kỹ thuật điện,Điện công nghiệp,226A005,Toán cao cấp - Nhóm 3,86,100,10.0,100,Đại cương,Không,Tự luận,Không,Không,22,Có,Có,Không
+Võ Thái Nam,226A011200,Kỹ thuật điện,Điện công nghiệp,226A005,Máy điện - Nhóm 1,2,22,9.0,60,Chuyên ngành,Không,Tự luận,Không,Không,55,Không,Có,Có

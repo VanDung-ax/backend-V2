@@ -12,4 +12,5 @@ static/
 # Frontend Folders (Để tách biệt khi Push Backend)
 frontend-react/
 frontend/
+frontend-react-v2/
 node_modules/
