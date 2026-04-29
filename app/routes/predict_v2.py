@@ -215,6 +215,7 @@ async def upload_and_predict(
                 risk_score=risk_score,
                 risk_level=risk_level,
                 warning_reasons=warning_reasons,
+                ten_mon_hoc=ten_mon,
                 is_repredict=False
             )
             db.add(pred_result)
@@ -311,6 +312,13 @@ def student_repredict(
         db.add(features)
         db.flush()
 
+        # Lấy ten_mon_hoc từ kết quả gốc (nếu có)
+        parent_ten_mon = None
+        if data.parent_result_id:
+            parent_result = db.query(PredictionResult2).filter(PredictionResult2.id == data.parent_result_id).first()
+            if parent_result:
+                parent_ten_mon = parent_result.ten_mon_hoc
+
         # Lưu kết quả dự báo lại
         pred_result = PredictionResult2(
             MSSV=mssv,
@@ -319,6 +327,7 @@ def student_repredict(
             risk_score=risk_score,
             risk_level=risk_level,
             warning_reasons=warning_reasons,
+            ten_mon_hoc=parent_ten_mon,
             is_repredict=True,
             parent_result_id=data.parent_result_id
         )

@@ -11,11 +11,22 @@ import requests
 from app.database_v2 import get_db_v2
 from app.models.student_risk_v2 import (
     SinhVien2, LearningPath2, Exercise2, ExerciseResult2, PredictionResult2,
-    CauHoiTamLy2, LichSuTestTamLy2
+    CauHoiTamLy2, LichSuTestTamLy2, AIRoadmap2
 )
 from app.services.learning_engine import generate_learning_path, generate_exercises
 
 router = APIRouter(prefix="/api/v2", tags=["Lộ trình & Bài tập"])
+
+
+from app.models.student_risk_v2 import MonHoc2
+
+# ─────────────────────────────────────────────────────────────────
+#  DANH SÁCH MÔN HỌC
+# ─────────────────────────────────────────────────────────────────
+@router.get("/monhoc")
+def get_all_monhoc(db: Session = Depends(get_db_v2)):
+    monhocs = db.query(MonHoc2).all()
+    return [{"MaMonHoc": m.MaMonHoc, "TenMonHoc": m.TenMonHoc} for m in monhocs]
 
 
 # ─────────────────────────────────────────────────────────────────
@@ -259,7 +270,8 @@ def get_progress(mssv: str, db: Session = Depends(get_db_v2)):
                 "hoc_nhom": features.hoc_nhom if features else None,
                 "lam_them": features.lam_them if features else None,
                 "co_kinh_nghiem": features.co_kinh_nghiem if features else None,
-            } if features else None
+            } if features else None,
+            "ten_mon_hoc": r.ten_mon_hoc
         })
 
     # Tính toán tiến bộ
@@ -303,7 +315,7 @@ def generate_ai_quiz(data: AIQuizRequest, db: Session = Depends(get_db_v2)):
     }
     
     try:
-        response = requests.post(url, json=payload, timeout=60)
+        response = requests.post(url, json=payload, timeout=120)
         response.raise_for_status()
         result_data = response.json()
         
@@ -345,6 +357,68 @@ def generate_ai_quiz(data: AIQuizRequest, db: Session = Depends(get_db_v2)):
         return result_data
     except requests.exceptions.RequestException as e:
         raise HTTPException(status_code=500, detail=f"Lỗi khi gọi AI API: {str(e)}")
+
+# ─────────────────────────────────────────────────────────────────
+#  AI ROADMAP GENERATOR PROXY
+# ─────────────────────────────────────────────────────────────────
+
+class AIRoadmapRequest(BaseModel):
+    mssv: str
+    nganh: str
+    mon: str
+    ly_do_rot: str
+
+@router.get("/ai-roadmap/{mssv}")
+def get_ai_roadmap(mssv: str, db: Session = Depends(get_db_v2)):
+    """Lấy lộ trình AI đã tạo gần nhất của sinh viên"""
+    roadmap = db.query(AIRoadmap2).filter(AIRoadmap2.MSSV == mssv).order_by(AIRoadmap2.created_at.desc()).first()
+    if not roadmap:
+        return None
+    return {
+        "mssv": roadmap.MSSV,
+        "mon_hoc": roadmap.mon_hoc,
+        "ly_do_rot": roadmap.ly_do_rot,
+        "loi_khuyen": roadmap.loi_khuyen,
+        "tuan_1": roadmap.tuan_1,
+        "tuan_2": roadmap.tuan_2
+    }
+
+@router.post("/generate-ai-roadmap")
+def generate_ai_roadmap(data: AIRoadmapRequest, db: Session = Depends(get_db_v2)):
+    """Gọi tới API AI bên ngoài để tạo lộ trình và lưu vào DB"""
+    url = "https://advice-student-model.onrender.com/consult"
+    
+    mssv_val = int(data.mssv) if data.mssv.isdigit() else data.mssv
+    payload = {
+        "mssv": mssv_val,
+        "nganh": data.nganh,
+        "mon": data.mon,
+        "ly_do_rot": data.ly_do_rot
+    }
+    
+    try:
+        response = requests.post(url, json=payload, timeout=120)
+        response.raise_for_status()
+        result_data = response.json()
+        
+        # Lưu vào database
+        new_roadmap = AIRoadmap2(
+            MSSV=str(data.mssv),
+            mon_hoc=data.mon,
+            ly_do_rot=data.ly_do_rot,
+            loi_khuyen=result_data.get("loi_khuyen", ""),
+            tuan_1=result_data.get("tuan_1", ""),
+            tuan_2=result_data.get("tuan_2", "")
+        )
+        db.add(new_roadmap)
+        db.commit()
+        
+        # Trả về kết hợp thông tin input để frontend hiển thị nếu cần
+        result_data["mon_hoc"] = data.mon
+        result_data["ly_do_rot"] = data.ly_do_rot
+        return result_data
+    except requests.exceptions.RequestException as e:
+        raise HTTPException(status_code=500, detail=f"Lỗi khi gọi AI API Roadmap: {str(e)}")
 
 # ─────────────────────────────────────────────────────────────────
 #  KHẢO SÁT TÂM LÝ & THÓI QUEN (300 câu hỏi)

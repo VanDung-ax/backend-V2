@@ -18,8 +18,8 @@ router = APIRouter(prefix="/api/v2", tags=["Dashboard & Lịch sử"])
 
 @router.get("/data/all-results")
 def get_all_results(
-    user_id: Optional[int] = None,
-    batch_id: Optional[int] = None,
+    user_id: Optional[str] = None,
+    batch_id: Optional[str] = None,
     db: Session = Depends(get_db_v2)
 ):
     """
@@ -27,13 +27,21 @@ def get_all_results(
     (hoặc lọc theo batch_id)
     """
     # Subquery: lấy prediction_result.id mới nhất cho mỗi MSSV
-    # (chỉ lấy kết quả từ batch, không lấy repredict)
+    # Nếu có batch_id thì chỉ lấy trong batch đó
+    subquery_filter = [PredictionResult2.is_repredict == False]
+    if batch_id and batch_id != "all":
+        try:
+            bid = int(batch_id)
+            subquery_filter.append(PredictionResult2.batch_id == bid)
+        except:
+            pass
+
     latest_ids_sq = (
         db.query(
             PredictionResult2.MSSV,
             func.max(PredictionResult2.id).label("max_id")
         )
-        .filter(PredictionResult2.is_repredict == False)
+        .filter(*subquery_filter)
         .group_by(PredictionResult2.MSSV)
         .subquery()
     )
@@ -53,10 +61,12 @@ def get_all_results(
         .outerjoin(Khoa2, SinhVien2.MaKhoa == Khoa2.MaKhoa)
     )
 
-    if batch_id:
-        query = query.filter(PredictionResult2.batch_id == batch_id)
+    # Nếu lọc theo batch_id thì chỉ hiện những sinh viên CÓ kết quả trong batch đó
+    if batch_id and batch_id != "all":
+        query = query.filter(latest_ids_sq.c.max_id != None)
 
     results = query.all()
+    print(f"DEBUG: get_all_results called with batch_id={batch_id}. Total rows found: {len(results)}")
     result_list = []
     for sv, pred, features, batch, khoa in results:
         result_list.append({

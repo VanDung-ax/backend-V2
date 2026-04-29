@@ -142,6 +142,8 @@ class PredictionResult2(Base2):
     risk_level = Column(String(50), nullable=False, default="AN TOÀN")
     warning_reasons = Column(JSON, nullable=True)   # list các reason keys từ AI
 
+    ten_mon_hoc = Column(String(200), nullable=True) # Môn học dự báo
+
     is_repredict = Column(Boolean, default=False)   # True nếu là dự báo lại của sinh viên
     parent_result_id = Column(Integer, ForeignKey("prediction_results.id"), nullable=True)  # ID kết quả gốc
 
@@ -173,6 +175,24 @@ class LearningPath2(Base2):
     updated_at = Column(TIMESTAMP, server_default=func.now(), onupdate=func.now())
 
     sinhvien = relationship("SinhVien2", back_populates="learning_paths")
+
+
+class AIRoadmap2(Base2):
+    """
+    Lưu lộ trình AI trả về từ external API
+    """
+    __tablename__ = "ai_roadmaps"
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    MSSV = Column(String(50), ForeignKey("sinhvien.MSSV"), index=True)
+    mon_hoc = Column(String(200))
+    ly_do_rot = Column(Text)
+    loi_khuyen = Column(Text)
+    tuan_1 = Column(Text)
+    tuan_2 = Column(Text)
+
+    created_at = Column(TIMESTAMP, server_default=func.now())
+
 
 
 # ─────────────────────────── BÀI TẬP & TEST ──────────────────────────────────────
