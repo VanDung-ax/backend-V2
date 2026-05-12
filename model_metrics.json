@@ -1,0 +1,101 @@
+{
+  "model_name": "CatBoost Classifier",
+  "balancing": "SMOTE (Synthetic Minority Over-sampling Technique)",
+  "dataset_size": 1200,
+  "train_size": 960,
+  "test_size": 240,
+  "train_size_after_smote": 1466,
+  "features_count": 13,
+  "features": [
+    "thoi_gian_tu_hoc",
+    "chuyen_can",
+    "diem_qua_trinh",
+    "hoan_thanh_bai_tap",
+    "loai_mon_hoc",
+    "tai_lieu_on_tap",
+    "hinh_thuc_thi",
+    "tre_hoc_phi",
+    "ho_tro",
+    "tre_hoc",
+    "hoc_nhom",
+    "lam_them",
+    "co_kinh_nghiem"
+  ],
+  "class_distribution": {
+    "before_smote": {
+      "safe": 733,
+      "risk": 227
+    },
+    "after_smote": {
+      "safe": 733,
+      "risk": 733
+    }
+  },
+  "metrics": {
+    "accuracy": 99.17,
+    "precision": 96.61,
+    "recall": 100.0,
+    "f1_score": 98.28,
+    "roc_auc": 99.98
+  },
+  "confusion_matrix": {
+    "true_negative": 181,
+    "false_positive": 2,
+    "false_negative": 0,
+    "true_positive": 57
+  },
+  "feature_importance": [
+    {
+      "name": "chuyen_can",
+      "importance": 20.21
+    },
+    {
+      "name": "thoi_gian_tu_hoc",
+      "importance": 19.85
+    },
+    {
+      "name": "tre_hoc",
+      "importance": 15.96
+    },
+    {
+      "name": "diem_qua_trinh",
+      "importance": 10.51
+    },
+    {
+      "name": "hoan_thanh_bai_tap",
+      "importance": 5.81
+    },
+    {
+      "name": "hinh_thuc_thi",
+      "importance": 5.4
+    },
+    {
+      "name": "lam_them",
+      "importance": 4.5
+    },
+    {
+      "name": "co_kinh_nghiem",
+      "importance": 4.33
+    },
+    {
+      "name": "tai_lieu_on_tap",
+      "importance": 3.81
+    },
+    {
+      "name": "hoc_nhom",
+      "importance": 3.44
+    },
+    {
+      "name": "tre_hoc_phi",
+      "importance": 2.88
+    },
+    {
+      "name": "ho_tro",
+      "importance": 1.84
+    },
+    {
+      "name": "loai_mon_hoc",
+      "importance": 1.45
+    }
+  ]
+}

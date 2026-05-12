@@ -221,6 +221,60 @@ def submit_answer(data: SubmitAnswerRequest, db: Session = Depends(get_db_v2)):
     }
 
 
+@router.get("/exercises/history/{mssv}")
+def get_exercise_history(mssv: str, db: Session = Depends(get_db_v2)):
+    """Lấy lịch sử điểm bài tập AI theo từng đợt làm bài để vẽ biểu đồ"""
+    results = (
+        db.query(ExerciseResult2)
+        .filter(ExerciseResult2.MSSV == mssv)
+        .order_by(ExerciseResult2.completed_at.asc())
+        .all()
+    )
+    
+    if not results:
+        return {"history": []}
+        
+    from datetime import timedelta
+    sessions = []
+    current_session = None
+    
+    for r in results:
+        if not r.completed_at:
+            continue
+            
+        # Tách đợt làm bài mới nếu khoảng cách thời gian nộp bài > 2 phút
+        if current_session is None or (r.completed_at - current_session["last_time"]) > timedelta(minutes=2):
+            if current_session:
+                sessions.append(current_session)
+                
+            current_session = {
+                "start_time": r.completed_at,
+                "last_time": r.completed_at,
+                "total": 0,
+                "correct": 0
+            }
+            
+        current_session["last_time"] = r.completed_at
+        current_session["total"] += 1
+        if r.is_correct:
+            current_session["correct"] += 1
+            
+    if current_session:
+        sessions.append(current_session)
+            
+    history = []
+    for i, s in enumerate(sessions):
+        score = round((s["correct"] / s["total"]) * 100, 1) if s["total"] > 0 else 0
+        date_str = s["start_time"].strftime("%d/%m")
+        history.append({
+            "name": f"{date_str} (Lần {i+1})",
+            "score": score
+        })
+        
+    return {"history": history}
+
+
+
 # ─────────────────────────────────────────────────────────────────
 #  TIẾN BỘ & SO SÁNH
 # ─────────────────────────────────────────────────────────────────
@@ -437,7 +491,16 @@ def get_random_tamly(mssv: str, db: Session = Depends(get_db_v2)):
         query = query.filter(~CauHoiTamLy2.id.in_(done_ids_list))
     
     available_questions = query.all()
-    selected = random.sample(available_questions, min(len(available_questions), 30))
+    
+    unique_questions = []
+    seen_texts = set()
+    for q in available_questions:
+        text = q.cau_hoi.strip().lower()
+        if text not in seen_texts:
+            seen_texts.add(text)
+            unique_questions.append(q)
+            
+    selected = random.sample(unique_questions, min(len(unique_questions), 30))
     
     return {
         "questions": [
@@ -501,4 +564,22 @@ def submit_tamly(data: SubmitTamLyRequest, db: Session = Depends(get_db_v2)):
         "score_percent": score_percent,
         "results": results
     }
+
+@router.get("/tam-ly/stats/{mssv}")
+def get_tamly_stats(mssv: str, db: Session = Depends(get_db_v2)):
+    """Lấy thống kê làm bài kiểm tra tâm lý của sinh viên"""
+    history = db.query(LichSuTestTamLy2).filter(LichSuTestTamLy2.mssv == mssv).all()
+    if not history:
+        return {"total_questions": 0, "correct_count": 0, "score_percent": 0}
+    
+    total_questions = len(history)
+    correct_count = sum(1 for h in history if h.is_correct)
+    score_percent = round((correct_count / total_questions) * 100, 1) if total_questions > 0 else 0
+    
+    return {
+        "total_questions": total_questions,
+        "correct_count": correct_count,
+        "score_percent": score_percent
+    }
+
 
