@@ -236,56 +236,39 @@ def submit_answer(data: SubmitAnswerRequest, db: Session = Depends(get_db_v2)):
 
 @router.get("/exercises/history/{mssv}")
 def get_exercise_history(mssv: str, db: Session = Depends(get_db_v2)):
-    """Lấy lịch sử điểm bài tập theo từng đợt làm bài để vẽ biểu đồ"""
-    results = (
-        db.query(ExerciseResult2)
+    """Lấy lịch sử điểm bài tập theo từng đợt làm bài (nhóm theo prediction_result_id)"""
+
+    # Join để lấy prediction_result_id từ Exercise2
+    rows = (
+        db.query(ExerciseResult2, Exercise2)
+        .join(Exercise2, ExerciseResult2.exercise_id == Exercise2.id)
         .filter(ExerciseResult2.MSSV == mssv)
-        .order_by(ExerciseResult2.completed_at.asc())
+        .order_by(Exercise2.prediction_result_id.asc(), ExerciseResult2.id.asc())
         .all()
     )
-    
-    if not results:
+
+    if not rows:
         return {"history": []}
-    
-    from datetime import timedelta, datetime
 
-    # Refresh để lấy server_default timestamp
-    for r in results:
-        db.refresh(r)
-
-    # Nhóm tất cả thành 1 session nếu không có timestamp, hoặc theo thời gian nếu có
-    sessions = []
-    current_session = None
-    fake_time = datetime(2000, 1, 1)  # fallback nếu completed_at vẫn None sau refresh
-
-    for r in results:
-        ts = r.completed_at or fake_time
-
-        if current_session is None or (ts - current_session["last_time"]) > timedelta(minutes=30):
-            if current_session:
-                sessions.append(current_session)
-            current_session = {
-                "start_time": ts,
-                "last_time": ts,
+    # Nhóm theo prediction_result_id — mỗi đợt dự báo = 1 "lần làm bài"
+    sessions: dict = {}
+    for result, exercise in rows:
+        pred_id = exercise.prediction_result_id or 0
+        if pred_id not in sessions:
+            sessions[pred_id] = {
                 "total": 0,
-                "correct": 0
+                "correct": 0,
+                "ex_created_at": exercise.created_at  # dùng để hiển thị ngày
             }
-
-        current_session["last_time"] = ts
-        current_session["total"] += 1
-        if r.is_correct:
-            current_session["correct"] += 1
-
-    if current_session:
-        sessions.append(current_session)
+        sessions[pred_id]["total"] += 1
+        if result.is_correct:
+            sessions[pred_id]["correct"] += 1
 
     history = []
-    for i, s in enumerate(sessions):
+    for i, (pred_id, s) in enumerate(sorted(sessions.items())):
         score = round((s["correct"] / s["total"]) * 100, 1) if s["total"] > 0 else 0
-        if s["start_time"] == fake_time:
-            label = f"Lần {i+1}"
-        else:
-            label = f"{s['start_time'].strftime('%d/%m')} (Lần {i+1})"
+        created = s["ex_created_at"]
+        label = f"{created.strftime('%d/%m')} (Lần {i+1})" if created else f"Lần {i+1}"
         history.append({
             "name": label,
             "score": score,
