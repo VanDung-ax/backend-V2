@@ -8,7 +8,7 @@ from pydantic import BaseModel
 
 from app.database_v2 import get_db_v2
 from app.models.student_risk_v2 import (
-    SinhVien2, Khoa2, TaiKhoan2, RiskFeatures2, PredictionResult2,
+    SinhVien2, Khoa2, Lop2, TaiKhoan2, RiskFeatures2, PredictionResult2,
     LearningPath2, Exercise2, ExerciseResult2
 )
 import hashlib
@@ -95,6 +95,20 @@ def add_student(data: StudentCreate, db: Session = Depends(get_db_v2)):
     except Exception as e:
         db.rollback()
         raise HTTPException(status_code=500, detail=f"Lỗi DB: {str(e)}")
+
+
+@router.get("/khoa-list")
+def get_khoa_list(db: Session = Depends(get_db_v2)):
+    """Trả về danh sách tất cả khoa trong hệ thống"""
+    khoas = db.query(Khoa2).order_by(Khoa2.TenKhoa).all()
+    return [{"MaKhoa": k.MaKhoa, "TenKhoa": k.TenKhoa or k.MaKhoa} for k in khoas]
+
+
+@router.get("/assign-data/{ma_khoa}")
+def get_assign_data(ma_khoa: str, db: Session = Depends(get_db_v2)):
+    """Trả về danh sách lớp theo khoa"""
+    lops = db.query(Lop2).filter(Lop2.MaKhoa == ma_khoa).order_by(Lop2.MaLop).all()
+    return {"lops": [{"MaLop": l.MaLop, "TenLop": l.TenLop or l.MaLop} for l in lops]}
 
 
 @router.delete("/delete/{mssv}")

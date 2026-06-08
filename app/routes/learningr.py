@@ -173,13 +173,26 @@ def get_exercises(mssv: str, db: Session = Depends(get_db_v2)):
     done_count = len(done_results)
     correct_count = sum(1 for r in done_results.values() if r["is_correct"])
 
+    # Tách riêng thống kê bài ôn luyện kiến thức (loại trừ ai_custom)
+    on_kien_thuc = [e for e in existing if e.risk_reason_key != "ai_custom"]
+    on_ids = {e.id for e in on_kien_thuc}
+    on_done = {k: v for k, v in done_results.items() if k in on_ids}
+    on_done_count = len(on_done)
+    on_correct_count = sum(1 for r in on_done.values() if r["is_correct"])
+    on_total = len(on_kien_thuc)
+
     return {
         "exercise_groups": list(grouped.values()),
         "total_questions": total_questions,
         "done_count": done_count,
         "correct_count": correct_count,
         "score_percent": round(correct_count / total_questions * 100, 1) if total_questions > 0 else 0,
-        "result_id": latest_result.id
+        "result_id": latest_result.id,
+        # Thống kê riêng bài ôn luyện kiến thức
+        "on_total": on_total,
+        "on_done_count": on_done_count,
+        "on_correct_count": on_correct_count,
+        "on_score_percent": round(on_correct_count / on_total * 100, 1) if on_total > 0 else 0,
     }
 
 
@@ -223,7 +236,7 @@ def submit_answer(data: SubmitAnswerRequest, db: Session = Depends(get_db_v2)):
 
 @router.get("/exercises/history/{mssv}")
 def get_exercise_history(mssv: str, db: Session = Depends(get_db_v2)):
-    """Lấy lịch sử điểm bài tập AI theo từng đợt làm bài để vẽ biểu đồ"""
+    """Lấy lịch sử điểm bài tập theo từng đợt làm bài để vẽ biểu đồ"""
     results = (
         db.query(ExerciseResult2)
         .filter(ExerciseResult2.MSSV == mssv)
@@ -233,44 +246,54 @@ def get_exercise_history(mssv: str, db: Session = Depends(get_db_v2)):
     
     if not results:
         return {"history": []}
-        
-    from datetime import timedelta
+    
+    from datetime import timedelta, datetime
+
+    # Refresh để lấy server_default timestamp
+    for r in results:
+        db.refresh(r)
+
+    # Nhóm tất cả thành 1 session nếu không có timestamp, hoặc theo thời gian nếu có
     sessions = []
     current_session = None
-    
+    fake_time = datetime(2000, 1, 1)  # fallback nếu completed_at vẫn None sau refresh
+
     for r in results:
-        if not r.completed_at:
-            continue
-            
-        # Tách đợt làm bài mới nếu khoảng cách thời gian nộp bài > 2 phút
-        if current_session is None or (r.completed_at - current_session["last_time"]) > timedelta(minutes=2):
+        ts = r.completed_at or fake_time
+
+        if current_session is None or (ts - current_session["last_time"]) > timedelta(minutes=30):
             if current_session:
                 sessions.append(current_session)
-                
             current_session = {
-                "start_time": r.completed_at,
-                "last_time": r.completed_at,
+                "start_time": ts,
+                "last_time": ts,
                 "total": 0,
                 "correct": 0
             }
-            
-        current_session["last_time"] = r.completed_at
+
+        current_session["last_time"] = ts
         current_session["total"] += 1
         if r.is_correct:
             current_session["correct"] += 1
-            
+
     if current_session:
         sessions.append(current_session)
-            
+
     history = []
     for i, s in enumerate(sessions):
         score = round((s["correct"] / s["total"]) * 100, 1) if s["total"] > 0 else 0
-        date_str = s["start_time"].strftime("%d/%m")
+        if s["start_time"] == fake_time:
+            label = f"Lần {i+1}"
+        else:
+            label = f"{s['start_time'].strftime('%d/%m')} (Lần {i+1})"
         history.append({
-            "name": f"{date_str} (Lần {i+1})",
-            "score": score
+            "name": label,
+            "score": score,
+            "total": s["total"],
+            "correct": s["correct"],
+            "wrong": s["total"] - s["correct"]
         })
-        
+
     return {"history": history}
 
 
@@ -482,26 +505,56 @@ import random
 
 @router.get("/tam-ly/random/{mssv}")
 def get_random_tamly(mssv: str, db: Session = Depends(get_db_v2)):
-    """Lấy 30 câu hỏi ngẫu nhiên chưa từng làm cho sinh viên"""
+    """Lấy 30 câu hỏi ngẫu nhiên chưa từng làm cho sinh viên, loại bỏ trùng lặp theo nội dung"""
     done_ids = db.query(LichSuTestTamLy2.cau_hoi_id).filter(LichSuTestTamLy2.mssv == mssv).all()
     done_ids_list = [id[0] for id in done_ids]
 
     query = db.query(CauHoiTamLy2)
     if done_ids_list:
         query = query.filter(~CauHoiTamLy2.id.in_(done_ids_list))
-    
+
     available_questions = query.all()
-    
+
+    import re
+
+    def normalize_text(text: str) -> str:
+        """Chuẩn hoá text: lowercase, xóa ký tự đặc biệt, chuẩn hoá khoảng trắng"""
+        if not text:
+            return ""
+        text = text.strip().lower()
+        text = re.sub(r'[^\w\s]', '', text)        # xóa ký tự đặc biệt
+        text = re.sub(r'\s+', ' ', text)            # chuẩn hoá khoảng trắng
+        # Xóa các từ dẫn đầu thông thường để tránh "Bạn có..." vs "Em có..."
+        text = re.sub(r'^(ban|em|anh|chi|cac ban|nguoi hoc|sinh vien)\s+', '', text)
+        return text
+
+    def options_key(options) -> str:
+        """Tạo key từ bộ đáp án để so sánh"""
+        if not options:
+            return ""
+        return "|".join(sorted([normalize_text(str(o)) for o in options]))
+
     unique_questions = []
     seen_texts = set()
+    seen_options = set()
+
     for q in available_questions:
-        text = q.cau_hoi.strip().lower()
-        if text not in seen_texts:
-            seen_texts.add(text)
-            unique_questions.append(q)
-            
-    selected = random.sample(unique_questions, min(len(unique_questions), 30))
-    
+        q_text = normalize_text(q.cau_hoi or "")
+        q_opts  = options_key(q.options)
+
+        # Bỏ qua nếu:
+        # 1. Câu hỏi giống hệt (sau normalize)
+        # 2. Hoặc bộ đáp án giống hệt (câu paraphrase nhưng cùng nội dung)
+        if q_text in seen_texts or (q_opts and q_opts in seen_options):
+            continue
+
+        seen_texts.add(q_text)
+        if q_opts:
+            seen_options.add(q_opts)
+        unique_questions.append(q)
+
+    selected = random.sample(unique_questions, min(len(unique_questions), 20))
+
     return {
         "questions": [
             {
